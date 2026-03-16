@@ -5,7 +5,7 @@
         {
             "icon": "theaters",
             "label": "Videos",
-            "data": "https://milotobias.github.io/msx/resources/anime/animelist.json"
+            "data": "https://milotobias.github.io/msx/fil/1.json"
         }     
     ]
 }
