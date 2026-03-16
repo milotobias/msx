@@ -1,0 +1,11 @@
+{
+    "headline": "Media Station X",
+    "dictionary": "http://msx.benzac.de/dic/es.json",
+    "menu": [               
+        {
+            "icon": "theaters",
+            "label": "Videos",
+            "data": "https://milotobias.github.io/msx/resources/anime/animelist.json"
+        }     
+    ]
+}
