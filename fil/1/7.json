@@ -1,0 +1,83 @@
+{
+    "type": "list",
+    "headline": "Golden Kamuy: Saishuushou",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Golden Kamuy: Saishuushou 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66448/SUB/wh0moio9j28s_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66504/SUB/aaxhphavb8bf_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66560/SUB/lpov0090k61p_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66618/SUB/qdql2nmvr3qo_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66676/SUB/7fahllc5zmae_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66732/SUB/teksh0i1zb8x_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 7",
+            "action": "video:https://a3.mp4upload.com:183/d/xsx347vgz3b4quuou6rrgjkklmwljcfmut5lgqz3hvwpgbecc2o47qni4asizx6eeqoszzp5/video.mp4",
+            "playerLabel": "Golden Kamuy: Saishuushou 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66845/SUB/wmc7egjqnyil_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66903/SUB/ygkbvd7hwipb_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        },
+        {
+            "title": "Golden Kamuy: Saishuushou 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66959/SUB/04citn2pcsej_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
+        }
+    ]
+}

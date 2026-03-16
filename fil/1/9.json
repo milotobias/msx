@@ -1,0 +1,83 @@
+{
+    "type": "list",
+    "headline": "Jigokuraku 2nd Season",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Jigokuraku 2nd Season 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66500/SUB/tm6yaksl7rbe_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66554/SUB/1ky8mvoec6lt_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66612/SUB/hw349khclxnv_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66670/SUB/0lxo1fil6m17_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66727/SUB/o8xl7hi9uvic_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66783/SUB/cqk5kbks1h3g_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66837/SUB/9w8gxegmhudz_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66897/SUB/pb612oflr6d4_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66953/SUB/dboniehzo53h_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67010/SUB/hsbjk5sqsxs1_h.class",
+            "playerLabel": "Jigokuraku 2nd Season 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+        }
+    ]
+}

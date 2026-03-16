@@ -1,0 +1,89 @@
+{
+    "type": "list",
+    "headline": "Ikoku Nikki",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Ikoku Nikki 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66444/SUB/u848wgtj1tkq_h.class",
+            "playerLabel": "Ikoku Nikki 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66494/SUB/84axtpk92ut0_h.class",
+            "playerLabel": "Ikoku Nikki 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66556/SUB/soe4fwpphg7r_h.class",
+            "playerLabel": "Ikoku Nikki 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66613/SUB/4rq9yb1wm70j_h.class",
+            "playerLabel": "Ikoku Nikki 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66671/SUB/af0n41vagsq5_h.class",
+            "playerLabel": "Ikoku Nikki 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66729/SUB/6pjkxvrt7j3t_h.class",
+            "playerLabel": "Ikoku Nikki 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66784/SUB/88hzz67h2l7e_h.class",
+            "playerLabel": "Ikoku Nikki 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66839/SUB/odtgvzbxc15z_h.class",
+            "playerLabel": "Ikoku Nikki 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66898/SUB/kkuki6c5taxq_h.class",
+            "playerLabel": "Ikoku Nikki 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66954/SUB/xbyjlgbuej3r_h.class",
+            "playerLabel": "Ikoku Nikki 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67012/SUB/sbbpvn784jt9_h.class",
+            "playerLabel": "Ikoku Nikki 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        }
+    ]
+}

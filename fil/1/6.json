@@ -1,0 +1,137 @@
+{
+    "type": "list",
+    "headline": "Fumetsu no Anata e Season 3",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Fumetsu no Anata e Season 3 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65776/SUB/dhd9iogdnnqo_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65825/SUB/jt58zyplwpib_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65877/SUB/2exlqj6kqhmg_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65931/SUB/gqbpo57m024b_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65986/SUB/lo3n9uwmjgj0_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66042/SUB/w04r7g574byz_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66096/SUB/twrjtacpgj8c_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66149/SUB/oxl6eenkimjq_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66202/SUB/noehf30sw8ub_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66258/SUB/l8mg1cj1wk0x_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66328/SUB/b1luogaoz481_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66380/SUB/2xcbxt7e2d8o_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66416/SUB/vkq58emphfdg_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 14",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66480/SUB/jf88ksulha52_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 15",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66597/SUB/uc6f6wki2mu9_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66655/SUB/fivn480wb0af_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 17",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66882/SUB/10e86r89ft60_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 18",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66940/SUB/rkowmmdqle1f_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        },
+        {
+            "title": "Fumetsu no Anata e Season 3 19",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66995/SUB/gvgfnsb4nygc_h.class",
+            "playerLabel": "Fumetsu no Anata e Season 3 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fumetsu-no-anata-e-season-3.jpg"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "list",
+    "headline": "Fate/strange Fake",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Fate/strange Fake 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63680/SUB/pm1pjfdpoz8s_h.class",
+            "playerLabel": "Fate/strange Fake 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66481/SUB/s5tp03qdb17w_h.class",
+            "playerLabel": "Fate/strange Fake 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66541/SUB/12ogb2xuvhli_h.class",
+            "playerLabel": "Fate/strange Fake 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66598/SUB/9ilxvk2xifk1_h.class",
+            "playerLabel": "Fate/strange Fake 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66656/SUB/awttmcdpokin_h.class",
+            "playerLabel": "Fate/strange Fake 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66713/SUB/rc7z9eeeyscp_h.class",
+            "playerLabel": "Fate/strange Fake 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66769/SUB/3y7optrxkgwd_h.class",
+            "playerLabel": "Fate/strange Fake 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66823/SUB/k0k8i3n4f034_h.class",
+            "playerLabel": "Fate/strange Fake 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66883/SUB/f9h6hhdzixff_h.class",
+            "playerLabel": "Fate/strange Fake 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66941/SUB/c9v101s2nn3k_h.class",
+            "playerLabel": "Fate/strange Fake 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66996/SUB/gkrls5du9jyt_h.class",
+            "playerLabel": "Fate/strange Fake 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        }
+    ]
+}
