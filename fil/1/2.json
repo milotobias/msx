@@ -78,6 +78,12 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66967/SUB/p3152v41pagd_h.class",
             "playerLabel": "Darwin Jihen 10",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+        },
+        {
+            "title": "Darwin Jihen 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67025/SUB/caswrmuu49v0_h.class",
+            "playerLabel": "Darwin Jihen 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         }
     ]
 }
