@@ -77,8 +77,12 @@ function render(items) {
         `;
 
         div.onclick = () => {
-            window.location.href = item.action.replace("content:", "");
-        };
+            let url = item.action
+                .replace("content:", "")
+                .replace("interaction:", "");
+
+            window.location.href = url;
+};
 
         container.appendChild(div);
     });
