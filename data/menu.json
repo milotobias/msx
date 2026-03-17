@@ -4,7 +4,7 @@
     "menu": [               
         {
             "icon": "theaters",
-            "label": "Videos",
+            "label": "V",
             "data": "https://milotobias.github.io/msx/fil/1.json"
         }     
     ]
