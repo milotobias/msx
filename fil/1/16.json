@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "NieR:Automata Ver1.1a",
+    "headline": "Sanda",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -20,148 +20,76 @@
     },
     "items": [
         {
-            "title": "NieR:Automata Ver1.1a 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/58431/SUB/66033_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65766/SUB/uk68rnkqvfsn_h.class",
+            "playerLabel": "Sanda 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58491/SUB/66093_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65816/SUB/wulhs7mbx40x_h.class",
+            "playerLabel": "Sanda 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58554/SUB/66155_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65869/SUB/p467isabgh79_h.class",
+            "playerLabel": "Sanda 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58795/SUB/66400_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65923/SUB/vqlpe8fzsshn_h.class",
+            "playerLabel": "Sanda 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58849/SUB/66455_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65977/SUB/gqx529ew5gwt_h.class",
+            "playerLabel": "Sanda 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58905/SUB/66511_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66034/SUB/f6qw86k4v1ka_h.class",
+            "playerLabel": "Sanda 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58958/SUB/66564_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66088/SUB/2rt0nbp24sz6_h.class",
+            "playerLabel": "Sanda 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59020/SUB/66627_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66141/SUB/7mqibuj8ehva_h.class",
+            "playerLabel": "Sanda 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59881/SUB/67531_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66194/SUB/z0rv1p89jl1f_h.class",
+            "playerLabel": "Sanda 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59882/SUB/67532_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66249/SUB/onyfscbtjgu7_h.class",
+            "playerLabel": "Sanda 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59883/SUB/67533_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66320/SUB/6ggjmdenikdp_h.class",
+            "playerLabel": "Sanda 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "NieR:Automata Ver1.1a 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59884/SUB/67534_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 13",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62387/SUB/70186_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 14",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62435/SUB/70234_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 15",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62488/SUB/70287_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 16",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62542/SUB/70341_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62597/SUB/70396_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 18",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62644/SUB/70441_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 19",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62744/SUB/70540_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 20",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62793/SUB/70589_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 21",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62847/SUB/70675_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 22",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62896/SUB/70702_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 23",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62945/SUB/70751_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
-        },
-        {
-            "title": "NieR:Automata Ver1.1a 24",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62982/SUB/70785_720p.class",
-            "playerLabel": "NieR:Automata Ver1.1a 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+            "title": "Sanda 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66375/SUB/btsf94o0mbbc_h.class",
+            "playerLabel": "Sanda 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         }
     ]
 }

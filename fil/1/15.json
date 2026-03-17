@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "MF Ghost",
+    "headline": "NieR:Automata Ver1.1a",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -20,214 +20,148 @@
     },
     "items": [
         {
-            "title": "MF Ghost 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60334/SUB/68012_720p.class",
-            "playerLabel": "MF Ghost 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/58431/SUB/66033_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60398/SUB/68079_720p.class",
-            "playerLabel": "MF Ghost 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58491/SUB/66093_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60463/SUB/68145_720p.class",
-            "playerLabel": "MF Ghost 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58554/SUB/66155_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60527/SUB/68208_720p.class",
-            "playerLabel": "MF Ghost 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58795/SUB/66400_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60589/SUB/68272_720p.class",
-            "playerLabel": "MF Ghost 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58849/SUB/66455_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60655/SUB/68342_720p.class",
-            "playerLabel": "MF Ghost 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58905/SUB/66511_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60715/SUB/68402_720p.class",
-            "playerLabel": "MF Ghost 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58958/SUB/66564_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60776/SUB/68465_720p.class",
-            "playerLabel": "MF Ghost 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59020/SUB/66627_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60838/SUB/68537_720p.class",
-            "playerLabel": "MF Ghost 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59881/SUB/67531_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60895/SUB/68594_720p.class",
-            "playerLabel": "MF Ghost 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59882/SUB/67532_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60954/SUB/68656_720p.class",
-            "playerLabel": "MF Ghost 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59883/SUB/67533_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61014/SUB/68716_720p.class",
-            "playerLabel": "MF Ghost 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59884/SUB/67534_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63047/SUB/70853_720p.class",
-            "playerLabel": "MF Ghost 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 13",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62387/SUB/70186_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 14",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63106/SUB/70912_720p.class",
-            "playerLabel": "MF Ghost 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 14",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62435/SUB/70234_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 15",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63163/SUB/70970_720p.class",
-            "playerLabel": "MF Ghost 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 15",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62488/SUB/70287_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 16",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63218/SUB/71025_720p.class",
-            "playerLabel": "MF Ghost 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62542/SUB/70341_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 17",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63273/SUB/71080_720p.class",
-            "playerLabel": "MF Ghost 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62597/SUB/70396_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 18",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63329/SUB/71140_720p.class",
-            "playerLabel": "MF Ghost 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62644/SUB/70441_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 19",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63385/SUB/71198_720p.class",
-            "playerLabel": "MF Ghost 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 19",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62744/SUB/70540_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 20",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63441/SUB/71253_720p.class",
-            "playerLabel": "MF Ghost 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 20",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62793/SUB/70589_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 21",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63494/SUB/laap89yy97mk_h.class",
-            "playerLabel": "MF Ghost 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 21",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62847/SUB/70675_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 22",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63545/SUB/rfke119ovlaj_h.class",
-            "playerLabel": "MF Ghost 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 22",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62896/SUB/70702_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 23",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63600/SUB/040bq8nuxxnp_h.class",
-            "playerLabel": "MF Ghost 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 23",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62945/SUB/70751_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "MF Ghost 24",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63646/SUB/12fvl9ytq53d_h.class",
-            "playerLabel": "MF Ghost 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 25",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66434/SUB/a64d5nv1m0rs_h.class",
-            "playerLabel": "MF Ghost 25",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 26",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66465/SUB/3wbd68afnp9f_h.class",
-            "playerLabel": "MF Ghost 26",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 27",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66523/SUB/176atsd11t9s_h.class",
-            "playerLabel": "MF Ghost 27",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 28",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66586/SUB/810ds45zh9n1_h.class",
-            "playerLabel": "MF Ghost 28",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 29",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66637/SUB/qd18ujbz65so_h.class",
-            "playerLabel": "MF Ghost 29",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 30",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66695/SUB/5eek9bl8qujz_h.class",
-            "playerLabel": "MF Ghost 30",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 31",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66754/SUB/7187wawbgtme_h.class",
-            "playerLabel": "MF Ghost 31",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 32",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66809/SUB/6pwfmr8i7rbq_h.class",
-            "playerLabel": "MF Ghost 32",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 33",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66867/SUB/wadxpopyt1tz_h.class",
-            "playerLabel": "MF Ghost 33",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 34",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66922/SUB/kufv5qqd34w6_h.class",
-            "playerLabel": "MF Ghost 34",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
-        },
-        {
-            "title": "MF Ghost 35",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66978/SUB/iwimusamvt2y_h.class",
-            "playerLabel": "MF Ghost 35",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+            "title": "NieR:Automata Ver1.1a 24",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62982/SUB/70785_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         }
     ]
 }
