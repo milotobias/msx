@@ -5,11 +5,7 @@
         "type": "separate",
         "layout": "0,0,3,5"
     },
-    "items": [
-        {
-            "title": "🔍 Buscar",
-            "action": "content:https://milotobias.github.io/msx/fil/1.json"
-        }
+    "items": [        
         {
             "title": "Chi.: Chikyuu no Undou ni Tsuite",
             "action": "content:https://milotobias.github.io/msx/fil/1/1.json",
