@@ -6,7 +6,7 @@
     "plugins": [
         {
             "label": "Custom UI",
-            "data": "request:interaction|||https://milotobias.github.io/msx/ui.html?url={URL}"
+            "data": "data": "request:interaction|||https://milotobias.github.io/msx/ui.html?url={DATA}"
         }
     ]
 }
