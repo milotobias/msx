@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "Seihantai na Kimi to Boku",
+    "headline": "Sanda",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -20,64 +20,76 @@
     },
     "items": [
         {
-            "title": "Seihantai na Kimi to Boku 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66497/SUB/gime0hml0opv_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65766/SUB/uk68rnkqvfsn_h.class",
+            "playerLabel": "Sanda 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66548/SUB/h8bptdbqtrkb_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65816/SUB/wulhs7mbx40x_h.class",
+            "playerLabel": "Sanda 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66606/SUB/slsuvlr5lxa7_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65869/SUB/p467isabgh79_h.class",
+            "playerLabel": "Sanda 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66664/SUB/um2ywdzs4ebs_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65923/SUB/vqlpe8fzsshn_h.class",
+            "playerLabel": "Sanda 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66720/SUB/sgtyuaclrok6_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65977/SUB/gqx529ew5gwt_h.class",
+            "playerLabel": "Sanda 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66777/SUB/n4i2e04pyab0_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66034/SUB/f6qw86k4v1ka_h.class",
+            "playerLabel": "Sanda 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66832/SUB/3c2ienkhxzlj_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66088/SUB/2rt0nbp24sz6_h.class",
+            "playerLabel": "Sanda 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66891/SUB/tllvlzl186t5_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66141/SUB/7mqibuj8ehva_h.class",
+            "playerLabel": "Sanda 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66947/SUB/0k0ao164bcvx_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66194/SUB/z0rv1p89jl1f_h.class",
+            "playerLabel": "Sanda 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67004/SUB/sr5x612rizjw_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Sanda 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66249/SUB/onyfscbtjgu7_h.class",
+            "playerLabel": "Sanda 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+        },
+        {
+            "title": "Sanda 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66320/SUB/6ggjmdenikdp_h.class",
+            "playerLabel": "Sanda 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+        },
+        {
+            "title": "Sanda 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66375/SUB/btsf94o0mbbc_h.class",
+            "playerLabel": "Sanda 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         }
     ]
 }
