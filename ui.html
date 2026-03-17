@@ -52,7 +52,12 @@ body {
 
 <script>
 const params = new URLSearchParams(window.location.search);
-const url = params.get("url");
+const url = params.get("url");let url = params.get("url");
+
+if (!url || url === "null") {
+    document.body.innerHTML += "<p style='color:red'>ERROR: No llegó URL</p>";
+}
+document.body.innerHTML += "<p>URL: " + url + "</p>";
 
 let dataGlobal = [];
 
