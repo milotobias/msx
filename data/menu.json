@@ -11,7 +11,7 @@
         {
             "icon": "tv",
             "label": "SS-IPTV",
-            "data": "http://app.ss-iptv.com/"
+            "action": "link:http://app.ss-iptv.com/"
         }
     ]
 }
