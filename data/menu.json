@@ -1,17 +1,17 @@
 {
-    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "headline": "Media Station X",
     "dictionary": "http://msx.benzac.de/dic/es.json",
-    "menu": [               
+    "menu": [
         {
             "icon": "theaters",
             "label": "V",
             "data": "https://milotobias.github.io/msx/fil/m.json"
         },
         {
-         "title": "SS-IPTV",
-         "image": "https://raw.githubusercontent.com/nekto966/msx/main/img/ssiptv.jpg",
-         "action": "link:http://app.ss-iptv.com/"
+            "icon": "tv",
+            "label": "SS-IPTV",
+            "data": "http://app.ss-iptv.com/"
         }
     ]
 }
