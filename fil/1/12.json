@@ -228,6 +228,12 @@
             "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66978/SUB/iwimusamvt2y_h.class",
             "playerLabel": "MF Ghost 35",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
+        },
+        {
+            "title": "MF Ghost 36",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67036/SUB/sds1ng81fb33_h.class",
+            "playerLabel": "MF Ghost 36",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
         }
     ]
 }
