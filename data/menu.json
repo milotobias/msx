@@ -10,8 +10,8 @@
         },
         {
             "icon": "tv",
-            "label": "SS-IPTV",
-            "action": "content:https://milotobias.github.io/msx/fil/ss.json"
+            "label": "SS",
+            "data": "https://milotobias.github.io/msx/fil/ss.json"
         }
     ]
 }
