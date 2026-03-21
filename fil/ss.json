@@ -14,21 +14,11 @@
          "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
          "title": "SS-Iptv",
          "action": "link:https://app.ss-iptv.com/"
-      },      
-      {
-         "image": "https://cdn.jkdesa.com/aplicacion/images/icon_thumb.png",
-         "title": "jkanime.net",
-         "action": "link:https://jkanime.net/"
-      },
+      }     
       {
          "image": "https://latanime.org/public/img/logito.png",
          "title": "latanime.org",
-         "action": "link:https://shokonick.github.io/msx/Streamplace.json"
-      },
-      {
-         "image": "https://play-lh.googleusercontent.com/PWQswFQHB5ceLihhVG4ZTIXCM7rNHugAYsmlHUHmNMBfE_WsXwTM58AXH8QrMifcALEJuoPeGN1cctJW5e0Xhw",
-         "title": "Mercado Play",
-         "action": "link:https://play.mercadolibre.com.ar/"
-      }      
+         "action": "link:https://latanime.org"
+      }  
    ]
 }
