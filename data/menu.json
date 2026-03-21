@@ -11,7 +11,7 @@
         {
             "icon": "tv",
             "label": "SS-IPTV",
-            "action": "link:http://app.ss-iptv.com/"
+            "action": "content:https://milotobias.github.io/msx/fil/ss.json"
         }
     ]
 }
