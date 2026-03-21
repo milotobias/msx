@@ -7,11 +7,6 @@
             "icon": "theaters",
             "label": "V",
             "data": "https://milotobias.github.io/msx/fil/m.json"
-        },
-        {
-            "icon": "tv",
-            "label": "SS",
-            "data": "https://milotobias.github.io/msx/fil/ss.json"
         }
     ]
 }
