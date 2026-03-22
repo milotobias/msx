@@ -1,6 +1,6 @@
 {
     "type": "list",
-    "headline": "mi_lista",
+    "headline": "m",
     "template": {
         "type": "separate",
         "layout": "0,0,3,5"
