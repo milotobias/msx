@@ -84,6 +84,12 @@
             "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66996/SUB/gkrls5du9jyt_h.class",
             "playerLabel": "Fate/strange Fake 11",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67053/SUB/gwguj8yhx007_h.class",
+            "playerLabel": "Fate/strange Fake 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         }
     ]
 }

@@ -24,6 +24,12 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67014/SUB/hgpnf5lmh7vg_h.class",
             "playerLabel": "Niwatori Fighter 1",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
+        },
+        {
+            "title": "Niwatori Fighter 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67064/SUB/r8ayy72bzcxz_h.class",
+            "playerLabel": "Niwatori Fighter 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
         }
     ]
 }

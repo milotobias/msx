@@ -78,6 +78,12 @@
             "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66992/SUB/en50wuun2x2c_h.class",
             "playerLabel": "Trigun Stargaze 10",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+        },
+        {
+            "title": "Trigun Stargaze 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67058/SUB/3f6wbj7cjaqr_h.class",
+            "playerLabel": "Trigun Stargaze 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         }
     ]
 }
