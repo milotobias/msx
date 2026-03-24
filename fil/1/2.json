@@ -1,4 +1,5 @@
 {
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
     "headline": "Darwin Jihen",
     "template": {
@@ -83,6 +84,12 @@
             "title": "Darwin Jihen 11",
             "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67025/SUB/caswrmuu49v0_h.class",
             "playerLabel": "Darwin Jihen 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+        },
+        {
+            "title": "Darwin Jihen 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67081/SUB/ljmk0ixtvjis_h.class",
+            "playerLabel": "Darwin Jihen 12",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         }
     ]
