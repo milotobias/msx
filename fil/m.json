@@ -87,53 +87,58 @@
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
         },
         {
-            "title": "Sanda",
+            "title": "One Piece",
             "action": "content:https://milotobias.github.io/msx/fil/1/17.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+        },
+        {
+            "title": "Sanda",
+            "action": "content:https://milotobias.github.io/msx/fil/1/18.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
             "title": "Seihantai na Kimi to Boku",
-            "action": "content:https://milotobias.github.io/msx/fil/1/18.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/19.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
             "title": "Sousou no Frieren 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/1/19.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/20.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sousou-no-frieren-2nd-season.jpg"
         },
         {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-            "action": "content:https://milotobias.github.io/msx/fil/1/20.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/21.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         },
         {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "action": "content:https://milotobias.github.io/msx/fil/1/21.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/22.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
             "title": "Trigun Stargaze",
-            "action": "content:https://milotobias.github.io/msx/fil/1/22.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/23.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
             "title": "Undead Unluck",
-            "action": "content:https://milotobias.github.io/msx/fil/1/23.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/24.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
         },
         {
             "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/1/24.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/25.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
         },
         {
             "title": "[Oshi no Ko] 3rd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/1/25.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/26.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
         },
         {
             "title": "kimi wa houkago",
-            "action": "content:https://milotobias.github.io/msx/fil/1/26.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/27.json",
             "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
         }
     ]
