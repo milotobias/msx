@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "[Oshi no Ko] 3rd Season",
+    "headline": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,68 +21,70 @@
     },
     "items": [
         {
-            "title": "[Oshi no Ko] 3rd Season 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66516/SUB/7czkirewklpu_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 1",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/66436/SUB/lrd09ssjlbfj_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66572/SUB/dkiygxrv1o7y_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66522/SUB/i6ssdzi1caai_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66630/SUB/8otu4jx049k6_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66578/SUB/7dhh7oe74rcg_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66688/SUB/0trpkando4kw_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66636/SUB/zln1uow2gg94_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66744/SUB/hrrbuxcofom3_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66694/SUB/9ox0akki6krf_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66802/SUB/y0vf4mf7q5jr_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66750/SUB/dmjbtpchddav_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66857/SUB/2lqtzaickfoz_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66808/SUB/hx9qq6b2buc0_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66915/SUB/6lnirm8xp8bt_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66863/SUB/e5dsebrnqhxr_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67029/SUB/doogyimgylnn_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66921/SUB/31sxfv8g34nu_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67029/SUB/doogyimgylnn_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 10"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67035/SUB/ppbciw0cqyor_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67085/SUB/ir9ex0dqs8j2_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 11"
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67089/SUB/cr3jcg10bt6b_h.class",
+            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         }
     ]
 }

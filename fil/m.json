@@ -133,13 +133,18 @@
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season",
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
             "action": "content:https://milotobias.github.io/msx/fil/1/26.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+        },
+        {
+            "title": "[Oshi no Ko] 3rd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/1/27.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
         },
         {
             "title": "kimi wa houkago",
-            "action": "content:https://milotobias.github.io/msx/fil/1/27.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/28.json",
             "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
         }
     ]
