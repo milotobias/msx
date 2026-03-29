@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,10 @@
     },
     "items": [
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66471/SUB/8g8nurzplnb6_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66472/SUB/syjgd8fabf2j_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66527/SUB/9cl66phthf53_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66582/SUB/o5wtb9a9fjt2_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66641/SUB/0kme403arexa_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66700/SUB/wt5j8hacxpq5_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66755/SUB/jrfo8rb9rerd_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66868/SUB/9kx5qr53lw7x_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66926/SUB/ejy1aunfz0rq_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66982/SUB/i3ddwzb7gnf6_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67041/SUB/p297bvgn5fh9_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67095/SUB/ww2hqisr018z_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
+            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         }
     ]
 }

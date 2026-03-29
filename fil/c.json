@@ -1,19 +1,91 @@
 {
-   "type": "pages",
-   "headline": "the",
-   "extension": "{col:msx-white}{ico:msx-white:access-time} {now:time:hh:mm}{tb}{ico:msx-white:coffee} ShokoMSX",
-   "action": "[settings:validate_links:0|home]",
-   "dictionary": "http://shokonick.github.io/msx/he.json",
-   "template": {
-      "type": "separate",
-      "layout": "0,0,2,3",
-      "color": "msx-glass"
-   },
-   "items": [         
-      {
-         "image": "https://cid1290.s3.pub.eu-lsn-prc.nimag.net/wm-pictures-production/q6yutesa20x720pkrergipxvkxty",
-         "title": "SS-Iptv",
-         "action": "link:https://odysee.com/"
-      }
-   ]
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "type": "list",
+    "headline": "c",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,3,5"
+    },
+    "items": [
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite",
+            "action": "content:https://milotobias.github.io/msx/fil/2/1.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Darwin Jihen",
+            "action": "content:https://milotobias.github.io/msx/fil/2/2.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+        },
+        {
+            "title": "Dungeon Meshi",
+            "action": "content:https://milotobias.github.io/msx/fil/2/3.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+        },
+        {
+            "title": "Fate/strange Fake",
+            "action": "content:https://milotobias.github.io/msx/fil/2/4.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Jigoku Sensei Nube (2025)",
+            "action": "content:https://milotobias.github.io/msx/fil/2/5.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+        },
+        {
+            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+            "action": "content:https://milotobias.github.io/msx/fil/2/6.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+        },
+        {
+            "title": "Mato Seihei no Slave 2",
+            "action": "content:https://milotobias.github.io/msx/fil/2/7.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+        },
+        {
+            "title": "Medalist 2nd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/2/8.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a",
+            "action": "content:https://milotobias.github.io/msx/fil/2/9.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "Sanda",
+            "action": "content:https://milotobias.github.io/msx/fil/2/10.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+            "action": "content:https://milotobias.github.io/msx/fil/2/11.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Trigun Stargaze",
+            "action": "content:https://milotobias.github.io/msx/fil/2/12.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+        },
+        {
+            "title": "Undead Unluck",
+            "action": "content:https://milotobias.github.io/msx/fil/2/13.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+        },
+        {
+            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+            "action": "content:https://milotobias.github.io/msx/fil/2/14.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+        },
+        {
+            "title": "[Oshi no Ko] 3rd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/2/15.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+        },
+        {
+            "title": "kimi wa houkago",
+            "action": "content:https://milotobias.github.io/msx/fil/2/16.json",
+            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+        }
+    ]
 }
