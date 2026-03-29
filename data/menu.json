@@ -5,12 +5,12 @@
     "menu": [
         {
             "icon": "theaters",
-            "label": "V",
+            "label": "E",
             "data": "https://milotobias.github.io/msx/fil/m.json"
         },
         {
             "icon": "theaters",
-            "label": "V",
+            "label": "C",
             "data": "https://milotobias.github.io/msx/fil/c.json"
         }
     ]
