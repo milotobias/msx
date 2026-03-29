@@ -28,43 +28,48 @@
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
         },
         {
-            "title": "Jigokuraku 2nd Season",
+            "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
             "action": "content:https://milotobias.github.io/msx/fil/1/5.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta.jpg"
+        },
+        {
+            "title": "Jigokuraku 2nd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/1/6.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
         },
         {
             "title": "MF Ghost",
-            "action": "content:https://milotobias.github.io/msx/fil/1/6.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/7.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
         },
         {
             "title": "Niwatori Fighter",
-            "action": "content:https://milotobias.github.io/msx/fil/1/7.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/8.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
         },
         {
             "title": "One Piece",
-            "action": "content:https://milotobias.github.io/msx/fil/1/8.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/9.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
         },
         {
             "title": "Seihantai na Kimi to Boku",
-            "action": "content:https://milotobias.github.io/msx/fil/1/9.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/10.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
             "title": "Sousou no Frieren 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/1/10.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/11.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sousou-no-frieren-2nd-season.jpg"
         },
         {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-            "action": "content:https://milotobias.github.io/msx/fil/1/11.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/12.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         },
         {
             "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/1/12.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/13.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
         }
     ]

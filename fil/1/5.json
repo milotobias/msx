@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Jigokuraku 2nd Season",
+    "headline": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,10 @@
     },
     "items": [
         {
-            "title": "Jigokuraku 2nd Season 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66500/SUB/tm6yaksl7rbe_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66554/SUB/1ky8mvoec6lt_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66612/SUB/hw349khclxnv_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66670/SUB/0lxo1fil6m17_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66727/SUB/o8xl7hi9uvic_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66783/SUB/cqk5kbks1h3g_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66837/SUB/9w8gxegmhudz_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66897/SUB/pb612oflr6d4_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66953/SUB/dboniehzo53h_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67010/SUB/hsbjk5sqsxs1_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
-        },
-        {
-            "title": "Jigokuraku 2nd Season 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67068/SUB/fow96c9okn4r_h.class",
-            "playerLabel": "Jigokuraku 2nd Season 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigokuraku-2nd-season.jpg"
+            "title": "Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta\",Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 14",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67118/SUB/wqfw2baioi2c_h.class",
+            "playerLabel": "Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta\",Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta.jpg"
         }
     ]
 }

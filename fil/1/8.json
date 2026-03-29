@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "One Piece",
+    "headline": "Niwatori Fighter",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,166 +21,16 @@
     },
     "items": [
         {
-            "title": "One Piece 1129",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64737/SUB/f6id3robfwuh_h.class",
-            "playerLabel": "One Piece 1129",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Niwatori Fighter 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67014/SUB/hgpnf5lmh7vg_h.class",
+            "playerLabel": "Niwatori Fighter 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
         },
         {
-            "title": "One Piece 1130",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64787/SUB/88mcjkexs30d_h.class",
-            "playerLabel": "One Piece 1130",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1131",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64838/SUB/38gv3110besk_h.class",
-            "playerLabel": "One Piece 1131",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1132",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64886/SUB/s7qxsiv1h6q4_h.class",
-            "playerLabel": "One Piece 1132",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1133",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64935/SUB/hyu1dad5ydj9_h.class",
-            "playerLabel": "One Piece 1133",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1134",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65015/SUB/yru4yyw8o17m_h.class",
-            "playerLabel": "One Piece 1134",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1135",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65060/SUB/4bil73fclk12_h.class",
-            "playerLabel": "One Piece 1135",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1136",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65120/SUB/obvxonui58my_h.class",
-            "playerLabel": "One Piece 1136",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1137",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65237/SUB/83v2ncbz8k7h_h.class",
-            "playerLabel": "One Piece 1137",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1138",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65297/SUB/ib1i6mrq1dg6_h.class",
-            "playerLabel": "One Piece 1138",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1139",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65356/SUB/opdv176j6q0l_h.class",
-            "playerLabel": "One Piece 1139",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1140",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65414/SUB/qfopj8sn34lo_h.class",
-            "playerLabel": "One Piece 1140",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1141",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65474/SUB/dho1bdy9uavs_h.class",
-            "playerLabel": "One Piece 1141",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1142",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65591/SUB/3gferrl3ui27_h.class",
-            "playerLabel": "One Piece 1142",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1143",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65648/SUB/kd2tz4g4orei_h.class",
-            "playerLabel": "One Piece 1143",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1144",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65710/SUB/ypenzh82ae5a_h.class",
-            "playerLabel": "One Piece 1144",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1145",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65744/SUB/vvvobjs4k1hn_h.class",
-            "playerLabel": "One Piece 1145",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1146",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65894/SUB/2x60lmu4rhld_h.class",
-            "playerLabel": "One Piece 1146",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1147",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65947/SUB/udk54i9q56a8_h.class",
-            "playerLabel": "One Piece 1147",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1148",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66003/SUB/ytu3uqi0j1j0_h.class",
-            "playerLabel": "One Piece 1148",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1149",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66059/SUB/wdrk43ym4w8s_h.class",
-            "playerLabel": "One Piece 1149",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1150",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66112/SUB/uvicqfhjqpwx_h.class",
-            "playerLabel": "One Piece 1150",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1151",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66219/SUB/lajy28rp28do_h.class",
-            "playerLabel": "One Piece 1151",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1152",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66274/SUB/wxjubyd3yg3u_h.class",
-            "playerLabel": "One Piece 1152",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1153",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66345/SUB/ulcaiqobqsgi_h.class",
-            "playerLabel": "One Piece 1153",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1154",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66396/SUB/th9u5e7ca7ld_h.class",
-            "playerLabel": "One Piece 1154",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1155",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66422/SUB/5s5gmxzn8abe_h.class",
-            "playerLabel": "One Piece 1155",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Niwatori Fighter 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67064/SUB/r8ayy72bzcxz_h.class",
+            "playerLabel": "Niwatori Fighter 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/niwatori-fighter.jpg"
         }
     ]
 }

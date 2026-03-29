@@ -91,6 +91,12 @@
             "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67070/SUB/3k9hcq5cnf2f_h.class",
             "playerLabel": "Ikoku Nikki 12",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+        },
+        {
+            "title": "Ikoku Nikki 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67119/SUB/q91oomb29boq_h.class",
+            "playerLabel": "Ikoku Nikki 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
         }
     ]
 }
