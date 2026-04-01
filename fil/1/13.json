@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,10 @@
     },
     "items": [
         {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66447/SUB/lp2dmdr3oq12_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66503/SUB/h07epwfqtnhj_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66559/SUB/xb4s0s7spne0_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66617/SUB/bzzjei4zgpb6_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66675/SUB/lx4ip9s9z9jh_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66731/SUB/p5ea0arfd6s9_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66789/SUB/6srfoeovs0wj_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66844/SUB/tdjt3qfed7uq_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66902/SUB/ic935i1mgi52_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66958/SUB/2ajewcoilj71_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67016/SUB/zavmhitze0ja_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67073/SUB/jemk32crdn0o_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
-        },
-        {
-            "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67123/SUB/re25gzf6ilrn_h.class",
-            "playerLabel": "Vigilante: Boku no Hero Academia Illegals 2nd Season 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
+            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
+            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         }
     ]
 }

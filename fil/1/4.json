@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Ikoku Nikki",
+    "headline": "Golden Kamuy: Saishuushou",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,76 @@
     },
     "items": [
         {
-            "title": "Ikoku Nikki 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66444/SUB/u848wgtj1tkq_h.class",
-            "playerLabel": "Ikoku Nikki 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66448/SUB/wh0moio9j28s_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66494/SUB/84axtpk92ut0_h.class",
-            "playerLabel": "Ikoku Nikki 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66504/SUB/aaxhphavb8bf_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66556/SUB/soe4fwpphg7r_h.class",
-            "playerLabel": "Ikoku Nikki 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66560/SUB/lpov0090k61p_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66613/SUB/4rq9yb1wm70j_h.class",
-            "playerLabel": "Ikoku Nikki 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66618/SUB/qdql2nmvr3qo_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66671/SUB/af0n41vagsq5_h.class",
-            "playerLabel": "Ikoku Nikki 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66676/SUB/7fahllc5zmae_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66729/SUB/6pjkxvrt7j3t_h.class",
-            "playerLabel": "Ikoku Nikki 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66732/SUB/teksh0i1zb8x_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66784/SUB/88hzz67h2l7e_h.class",
-            "playerLabel": "Ikoku Nikki 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66845/SUB/wmc7egjqnyil_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66839/SUB/odtgvzbxc15z_h.class",
-            "playerLabel": "Ikoku Nikki 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66903/SUB/ygkbvd7hwipb_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66898/SUB/kkuki6c5taxq_h.class",
-            "playerLabel": "Ikoku Nikki 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66959/SUB/04citn2pcsej_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66954/SUB/xbyjlgbuej3r_h.class",
-            "playerLabel": "Ikoku Nikki 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67017/SUB/x3gfyrqbqkgr_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67012/SUB/sbbpvn784jt9_h.class",
-            "playerLabel": "Ikoku Nikki 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67074/SUB/zukgqpu5c0qn_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         },
         {
-            "title": "Ikoku Nikki 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67070/SUB/3k9hcq5cnf2f_h.class",
-            "playerLabel": "Ikoku Nikki 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
-        },
-        {
-            "title": "Ikoku Nikki 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67119/SUB/q91oomb29boq_h.class",
-            "playerLabel": "Ikoku Nikki 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ikoku-nikki.jpg"
+            "title": "Golden Kamuy: Saishuushou 13",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67124/SUB/iki5pxhmuo4t_h.class",
+            "playerLabel": "Golden Kamuy: Saishuushou 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/golden-kamuy-saishuushou.jpg"
         }
     ]
 }
