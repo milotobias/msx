@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Darwin Jihen",
+    "headline": "Chitose-kun wa Ramune Bin no Naka",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,82 @@
     },
     "items": [
         {
-            "title": "Darwin Jihen 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66456/SUB/imkdk6gln1db_h.class",
-            "playerLabel": "Darwin Jihen 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65796/SUB/7lyy08ondqod_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66511/SUB/palbkldsfn4v_h.class",
-            "playerLabel": "Darwin Jihen 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65849/SUB/8tcfea78lk0y_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66568/SUB/n5kabavmyoqt_h.class",
-            "playerLabel": "Darwin Jihen 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65903/SUB/669ao5sqtksy_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66626/SUB/nrab1wylggyx_h.class",
-            "playerLabel": "Darwin Jihen 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65956/SUB/xnvcm9xu32ao_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66684/SUB/b95uay9jhwd1_h.class",
-            "playerLabel": "Darwin Jihen 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66013/SUB/pom0rx2hv5dj_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66740/SUB/ibqdq04fc5as_h.class",
-            "playerLabel": "Darwin Jihen 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66228/SUB/ofge3pzhb30d_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66798/SUB/ddivq9j49t47_h.class",
-            "playerLabel": "Darwin Jihen 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66285/SUB/vlsmsg9d1uwn_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66853/SUB/3a0z4m00tkkj_h.class",
-            "playerLabel": "Darwin Jihen 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66354/SUB/1cr4xz8me94c_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66911/SUB/gcy8170uamaz_h.class",
-            "playerLabel": "Darwin Jihen 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66405/SUB/a34i3pojmyv1_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66967/SUB/p3152v41pagd_h.class",
-            "playerLabel": "Darwin Jihen 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66425/SUB/94rjndnsksjx_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67025/SUB/caswrmuu49v0_h.class",
-            "playerLabel": "Darwin Jihen 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66425/SUB/94rjndnsksjx_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 12",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67081/SUB/ljmk0ixtvjis_h.class",
-            "playerLabel": "Darwin Jihen 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67127/SUB/r832j108yeua_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
-            "title": "Darwin Jihen 13",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67130/SUB/0tiduhd36kwm_h.class",
-            "playerLabel": "Darwin Jihen 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
+            "title": "Chitose-kun wa Ramune Bin no Naka 13",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67128/SUB/u0ag3vj82zih_h.class",
+            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         }
     ]
 }

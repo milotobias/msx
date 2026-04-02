@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Jigoku Sensei Nube (2025)",
+    "headline": "Fate/strange Fake",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,160 +21,82 @@
     },
     "items": [
         {
-            "title": "Jigoku Sensei Nube (2025) 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65027/SUB/n2ztyuf96wdw_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63680/SUB/pm1pjfdpoz8s_h.class",
+            "playerLabel": "Fate/strange Fake 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65028/SUB/d9gcap3so3ix_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66481/SUB/s5tp03qdb17w_h.class",
+            "playerLabel": "Fate/strange Fake 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65078/SUB/62gbk1f81864_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66541/SUB/12ogb2xuvhli_h.class",
+            "playerLabel": "Fate/strange Fake 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65140/SUB/jc8w6iv7f5uc_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66598/SUB/9ilxvk2xifk1_h.class",
+            "playerLabel": "Fate/strange Fake 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65199/SUB/m7x4oramuugg_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66656/SUB/awttmcdpokin_h.class",
+            "playerLabel": "Fate/strange Fake 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65318/SUB/jb69ux8j24i0_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66713/SUB/rc7z9eeeyscp_h.class",
+            "playerLabel": "Fate/strange Fake 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65375/SUB/e2ulpocj2wm5_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66769/SUB/3y7optrxkgwd_h.class",
+            "playerLabel": "Fate/strange Fake 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65434/SUB/68mwf2x92oyi_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66823/SUB/k0k8i3n4f034_h.class",
+            "playerLabel": "Fate/strange Fake 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65495/SUB/3u61hshjkqra_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66883/SUB/f9h6hhdzixff_h.class",
+            "playerLabel": "Fate/strange Fake 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65551/SUB/uqmuf4z6yvf0_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66941/SUB/c9v101s2nn3k_h.class",
+            "playerLabel": "Fate/strange Fake 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65611/SUB/ial5k2a7fonw_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66996/SUB/gkrls5du9jyt_h.class",
+            "playerLabel": "Fate/strange Fake 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65671/SUB/dcamuc4p533c_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67053/SUB/gwguj8yhx007_h.class",
+            "playerLabel": "Fate/strange Fake 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 13",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66464/SUB/ht1ie3gta302_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 14",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66521/SUB/a2tve105rz17_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 15",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66577/SUB/g5c5jfwxrgat_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 16",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66635/SUB/bt57ardhibn4_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66693/SUB/0c0s6tmeq4qp_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 18",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66749/SUB/vfzrib82aqbi_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 19",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66807/SUB/b5nfa2xi1mgt_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 20",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66862/SUB/6ggfgtsuueoc_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 21",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66920/SUB/4p86l972cpue_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 22",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66920/SUB/4p86l972cpue_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 23",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66976/SUB/qyov1h47w1iz_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 24",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67034/SUB/yvpqyontvqp9_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 25",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67087/SUB/wwolea732mb4_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 25",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 26",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67088/SUB/ohrx4pd3jy26_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 26",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Fate/strange Fake 13",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67108/SUB/iibxkq1fhn5c_h.class",
+            "playerLabel": "Fate/strange Fake 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         }
     ]
 }
