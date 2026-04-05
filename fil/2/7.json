@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Jigoku Sensei Nube (2025)",
+    "headline": "Gin no Saji",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,160 +21,70 @@
     },
     "items": [
         {
-            "title": "Jigoku Sensei Nube (2025) 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65027/SUB/n2ztyuf96wdw_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14158/sub/8451_480p.class",
+            "playerLabel": "Gin no Saji 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65028/SUB/d9gcap3so3ix_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14159/sub/8450_480p.class",
+            "playerLabel": "Gin no Saji 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65078/SUB/62gbk1f81864_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14160/sub/8449_480p.class",
+            "playerLabel": "Gin no Saji 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65140/SUB/jc8w6iv7f5uc_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14161/sub/8448_480p.class",
+            "playerLabel": "Gin no Saji 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65199/SUB/m7x4oramuugg_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14162/sub/8447_480p.class",
+            "playerLabel": "Gin no Saji 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65318/SUB/jb69ux8j24i0_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14163/sub/8446_480p.class",
+            "playerLabel": "Gin no Saji 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65375/SUB/e2ulpocj2wm5_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14164/sub/8445_480p.class",
+            "playerLabel": "Gin no Saji 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65434/SUB/68mwf2x92oyi_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14165/sub/8444_480p.class",
+            "playerLabel": "Gin no Saji 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65495/SUB/3u61hshjkqra_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14166/sub/8443_480p.class",
+            "playerLabel": "Gin no Saji 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65551/SUB/uqmuf4z6yvf0_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14167/sub/8442_480p.class",
+            "playerLabel": "Gin no Saji 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
-            "title": "Jigoku Sensei Nube (2025) 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65611/SUB/ial5k2a7fonw_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65671/SUB/dcamuc4p533c_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 13",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66464/SUB/ht1ie3gta302_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 14",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66521/SUB/a2tve105rz17_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 15",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66577/SUB/g5c5jfwxrgat_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 16",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66635/SUB/bt57ardhibn4_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66693/SUB/0c0s6tmeq4qp_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 18",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66749/SUB/vfzrib82aqbi_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 19",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66807/SUB/b5nfa2xi1mgt_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 20",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66862/SUB/6ggfgtsuueoc_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 21",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66920/SUB/4p86l972cpue_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 22",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66920/SUB/4p86l972cpue_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 23",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66976/SUB/qyov1h47w1iz_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 24",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67034/SUB/yvpqyontvqp9_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 25",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67087/SUB/wwolea732mb4_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 25",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
-        },
-        {
-            "title": "Jigoku Sensei Nube (2025) 26",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67088/SUB/ohrx4pd3jy26_h.class",
-            "playerLabel": "Jigoku Sensei Nube (2025) 26",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
+            "title": "Gin no Saji 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14168/sub/8441_480p.class",
+            "playerLabel": "Gin no Saji 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         }
     ]
 }

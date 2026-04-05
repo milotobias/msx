@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+    "headline": "Gin no Saji 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,70 @@
     },
     "items": [
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66471/SUB/8g8nurzplnb6_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14147/sub/8462_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66472/SUB/syjgd8fabf2j_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14148/sub/8461_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66527/SUB/9cl66phthf53_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14149/sub/8460_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66582/SUB/o5wtb9a9fjt2_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14150/sub/8459_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66641/SUB/0kme403arexa_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14151/sub/8458_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66700/SUB/wt5j8hacxpq5_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14152/sub/8457_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66755/SUB/jrfo8rb9rerd_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14153/sub/8456_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66868/SUB/9kx5qr53lw7x_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14154/sub/8455_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66926/SUB/ejy1aunfz0rq_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14155/sub/8454_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66982/SUB/i3ddwzb7gnf6_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14156/sub/8453_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         },
         {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67041/SUB/p297bvgn5fh9_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
-        },
-        {
-            "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67095/SUB/ww2hqisr018z_h.class",
-            "playerLabel": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
+            "title": "Gin no Saji 2nd Season 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14157/sub/8452_480p.class",
+            "playerLabel": "Gin no Saji 2nd Season 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Chitose-kun wa Ramune Bin no Naka",
+    "headline": "Chi.: Chikyuu no Undou ni Tsuite",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,154 @@
     },
     "items": [
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65796/SUB/7lyy08ondqod_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63034/SUB/70840_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65849/SUB/8tcfea78lk0y_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63035/SUB/70841_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65903/SUB/669ao5sqtksy_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63089/SUB/70895_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65956/SUB/xnvcm9xu32ao_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63148/SUB/70955_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66013/SUB/pom0rx2hv5dj_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63206/SUB/71013_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66228/SUB/ofge3pzhb30d_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63259/SUB/71064_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66285/SUB/vlsmsg9d1uwn_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63315/SUB/71121_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66354/SUB/1cr4xz8me94c_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63369/SUB/71186_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66405/SUB/a34i3pojmyv1_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63427/SUB/71239_720p.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66425/SUB/94rjndnsksjx_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63480/SUB/9wnvki5ihcj5_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66425/SUB/94rjndnsksjx_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63531/SUB/brg74ab1ejtq_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67127/SUB/r832j108yeua_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63586/SUB/drohrf9shr93_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
-            "title": "Chitose-kun wa Ramune Bin no Naka 13",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67128/SUB/u0ag3vj82zih_h.class",
-            "playerLabel": "Chitose-kun wa Ramune Bin no Naka 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 13",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63633/SUB/84csxgfg6j9a_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 14",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63672/SUB/9hglippjyjdi_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 15",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63693/SUB/z2k3knptrscp_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63754/SUB/p0787azukocl_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 17",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63816/SUB/5i93ddolgeag_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 18",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63875/SUB/1rwi6hfhzqap_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 19",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63933/SUB/alfbzz3c6cs5_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 20",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/63995/SUB/x75b556evvzy_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 21",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64053/SUB/ftj7533x0jfv_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 22",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64111/SUB/urysr5om2eb1_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 23",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64169/SUB/entjoz4wgckc_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 24",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64225/SUB/7j5e8i2rs6we_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite 25",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64280/SUB/jm2d5e043j09_h.class",
+            "playerLabel": "Chi.: Chikyuu no Undou ni Tsuite 25",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         }
     ]
 }

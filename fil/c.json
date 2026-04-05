@@ -8,98 +8,118 @@
     },
     "items": [
         {
-            "title": "Chi.: Chikyuu no Undou ni Tsuite",
+            "title": "Boukyaku Battery (TV)",
             "action": "content:https://milotobias.github.io/msx/fil/2/1.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/boukyaku-battery-tv.jpg"
+        },
+        {
+            "title": "Chi.: Chikyuu no Undou ni Tsuite",
+            "action": "content:https://milotobias.github.io/msx/fil/2/2.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/chi-chikyuu-no-undou-ni-tsuite.jpg"
         },
         {
             "title": "Chitose-kun wa Ramune Bin no Naka",
-            "action": "content:https://milotobias.github.io/msx/fil/2/2.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/3.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/chitose-kun-wa-ramune-bin-no-naka.jpg"
         },
         {
             "title": "Darwin Jihen",
-            "action": "content:https://milotobias.github.io/msx/fil/2/3.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/4.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
             "title": "Dungeon Meshi",
-            "action": "content:https://milotobias.github.io/msx/fil/2/4.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/5.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
         },
         {
             "title": "Fate/strange Fake",
-            "action": "content:https://milotobias.github.io/msx/fil/2/5.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/6.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
             "title": "Gin no Saji",
-            "action": "content:https://milotobias.github.io/msx/fil/2/6.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/7.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
         },
         {
+            "title": "Gin no Saji 2nd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/2/8.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji-2nd-season.jpg"
+        },
+        {
             "title": "Jigoku Sensei Nube (2025)",
-            "action": "content:https://milotobias.github.io/msx/fil/2/7.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/9.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/jigoku-sensei-nube-2025.jpg"
         },
         {
             "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-            "action": "content:https://milotobias.github.io/msx/fil/2/8.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/10.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/jujutsu-kaisen-shimetsu-kaiyuu-zenpen.jpg"
         },
         {
             "title": "Mato Seihei no Slave 2",
-            "action": "content:https://milotobias.github.io/msx/fil/2/9.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/11.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
             "title": "Medalist 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/10.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/12.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
+            "title": "Nami yo Kiitekure",
+            "action": "content:https://milotobias.github.io/msx/fil/2/13.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
+        },
+        {
             "title": "NieR:Automata Ver1.1a",
-            "action": "content:https://milotobias.github.io/msx/fil/2/11.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/14.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
             "title": "Sanda",
-            "action": "content:https://milotobias.github.io/msx/fil/2/12.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/15.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
+            "title": "Texhnolyze",
+            "action": "content:https://milotobias.github.io/msx/fil/2/16.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "action": "content:https://milotobias.github.io/msx/fil/2/13.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/17.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
             "title": "Trigun Stargaze",
-            "action": "content:https://milotobias.github.io/msx/fil/2/14.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/18.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
             "title": "Undead Unluck",
-            "action": "content:https://milotobias.github.io/msx/fil/2/15.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/19.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
         },
         {
             "title": "Vivy: Fluorite Eye's Song",
-            "action": "content:https://milotobias.github.io/msx/fil/2/16.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/20.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
         },
         {
             "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "action": "content:https://milotobias.github.io/msx/fil/2/17.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/21.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
             "title": "[Oshi no Ko] 3rd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/18.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/22.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
         },
         {
             "title": "kimi wa houkago",
-            "action": "content:https://milotobias.github.io/msx/fil/2/19.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/23.json",
             "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
         }
     ]

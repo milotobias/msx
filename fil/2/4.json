@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Dungeon Meshi",
+    "headline": "Darwin Jihen",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,148 +21,82 @@
     },
     "items": [
         {
-            "title": "Dungeon Meshi 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61089/SUB/68791_720p.class",
-            "playerLabel": "Dungeon Meshi 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66456/SUB/imkdk6gln1db_h.class",
+            "playerLabel": "Darwin Jihen 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61128/SUB/68830_720p.class",
-            "playerLabel": "Dungeon Meshi 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66511/SUB/palbkldsfn4v_h.class",
+            "playerLabel": "Darwin Jihen 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61178/SUB/68880_720p.class",
-            "playerLabel": "Dungeon Meshi 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66568/SUB/n5kabavmyoqt_h.class",
+            "playerLabel": "Darwin Jihen 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61229/SUB/68931_720p.class",
-            "playerLabel": "Dungeon Meshi 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66626/SUB/nrab1wylggyx_h.class",
+            "playerLabel": "Darwin Jihen 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61281/SUB/68982_720p.class",
-            "playerLabel": "Dungeon Meshi 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66684/SUB/b95uay9jhwd1_h.class",
+            "playerLabel": "Darwin Jihen 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61332/SUB/69041_720p.class",
-            "playerLabel": "Dungeon Meshi 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66740/SUB/ibqdq04fc5as_h.class",
+            "playerLabel": "Darwin Jihen 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61381/SUB/69090_720p.class",
-            "playerLabel": "Dungeon Meshi 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66798/SUB/ddivq9j49t47_h.class",
+            "playerLabel": "Darwin Jihen 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61431/SUB/69140_720p.class",
-            "playerLabel": "Dungeon Meshi 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66853/SUB/3a0z4m00tkkj_h.class",
+            "playerLabel": "Darwin Jihen 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61478/SUB/69187_720p.class",
-            "playerLabel": "Dungeon Meshi 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66911/SUB/gcy8170uamaz_h.class",
+            "playerLabel": "Darwin Jihen 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61533/SUB/69242_720p.class",
-            "playerLabel": "Dungeon Meshi 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66967/SUB/p3152v41pagd_h.class",
+            "playerLabel": "Darwin Jihen 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61585/SUB/69294_720p.class",
-            "playerLabel": "Dungeon Meshi 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67025/SUB/caswrmuu49v0_h.class",
+            "playerLabel": "Darwin Jihen 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61634/SUB/69345_720p.class",
-            "playerLabel": "Dungeon Meshi 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67081/SUB/ljmk0ixtvjis_h.class",
+            "playerLabel": "Darwin Jihen 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         },
         {
-            "title": "Dungeon Meshi 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61677/SUB/69858_720p.class",
-            "playerLabel": "Dungeon Meshi 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 14",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61707/SUB/69418_720p.class",
-            "playerLabel": "Dungeon Meshi 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 15",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61755/SUB/69467_720p.class",
-            "playerLabel": "Dungeon Meshi 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 16",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61814/SUB/69526_720p.class",
-            "playerLabel": "Dungeon Meshi 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61867/SUB/69586_720p.class",
-            "playerLabel": "Dungeon Meshi 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 18",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61920/SUB/69639_720p.class",
-            "playerLabel": "Dungeon Meshi 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 19",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61974/SUB/69692_720p.class",
-            "playerLabel": "Dungeon Meshi 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 20",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62031/SUB/69835_720p.class",
-            "playerLabel": "Dungeon Meshi 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 21",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62086/SUB/69815_720p.class",
-            "playerLabel": "Dungeon Meshi 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 22",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62138/SUB/69933_720p.class",
-            "playerLabel": "Dungeon Meshi 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 23",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62193/SUB/69988_720p.class",
-            "playerLabel": "Dungeon Meshi 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
-        },
-        {
-            "title": "Dungeon Meshi 24",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62247/SUB/70042_720p.class",
-            "playerLabel": "Dungeon Meshi 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dungeon-meshi.jpg"
+            "title": "Darwin Jihen 13",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67130/SUB/0tiduhd36kwm_h.class",
+            "playerLabel": "Darwin Jihen 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/darwin-jihen.jpg"
         }
     ]
 }

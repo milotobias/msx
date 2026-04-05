@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Sanda",
+    "headline": "Medalist 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,58 @@
     },
     "items": [
         {
-            "title": "Sanda 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65766/SUB/uk68rnkqvfsn_h.class",
-            "playerLabel": "Sanda 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66602/SUB/lcdl21gx4jwk_h.class",
+            "playerLabel": "Medalist 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65816/SUB/wulhs7mbx40x_h.class",
-            "playerLabel": "Sanda 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66660/SUB/261a1rxvsabo_h.class",
+            "playerLabel": "Medalist 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65869/SUB/p467isabgh79_h.class",
-            "playerLabel": "Sanda 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66717/SUB/40lfhrhopvxk_h.class",
+            "playerLabel": "Medalist 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65923/SUB/vqlpe8fzsshn_h.class",
-            "playerLabel": "Sanda 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66773/SUB/v4cs9tk3p0jh_h.class",
+            "playerLabel": "Medalist 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65977/SUB/gqx529ew5gwt_h.class",
-            "playerLabel": "Sanda 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66824/SUB/sb389sz7d6zy_h.class",
+            "playerLabel": "Medalist 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66034/SUB/f6qw86k4v1ka_h.class",
-            "playerLabel": "Sanda 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66887/SUB/uo97w6i1nwtc_h.class",
+            "playerLabel": "Medalist 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66088/SUB/2rt0nbp24sz6_h.class",
-            "playerLabel": "Sanda 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66945/SUB/mz04z6701v45_h.class",
+            "playerLabel": "Medalist 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66141/SUB/7mqibuj8ehva_h.class",
-            "playerLabel": "Sanda 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67000/SUB/9atxhqdwfl57_h.class",
+            "playerLabel": "Medalist 2nd Season 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
-            "title": "Sanda 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66194/SUB/z0rv1p89jl1f_h.class",
-            "playerLabel": "Sanda 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
-        },
-        {
-            "title": "Sanda 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66249/SUB/onyfscbtjgu7_h.class",
-            "playerLabel": "Sanda 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
-        },
-        {
-            "title": "Sanda 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66320/SUB/6ggjmdenikdp_h.class",
-            "playerLabel": "Sanda 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
-        },
-        {
-            "title": "Sanda 12",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66375/SUB/btsf94o0mbbc_h.class",
-            "playerLabel": "Sanda 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Medalist 2nd Season 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67056/SUB/aokakucxewuk_h.class",
+            "playerLabel": "Medalist 2nd Season 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         }
     ]
 }
