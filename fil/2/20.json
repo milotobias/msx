@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Vivy: Fluorite Eye's Song",
+    "headline": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,148 @@
     },
     "items": [
         {
-            "title": "Vivy: Fluorite Eye's Song 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54892/sub/21673_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65778/SUB/u7qbg986dz80_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54890/sub/21675_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65827/SUB/r9esfkb6xtf7_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54889/sub/21676_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65880/SUB/xqsx9vyj0sy4_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/54888/sub/21677_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65934/SUB/g54dk26wby47_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/54887/sub/21678_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65989/SUB/8ry1ja7pxung_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54886/sub/21679_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66045/SUB/pj9awy3rna5c_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54885/sub/21680_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66099/SUB/s3rd90pn883x_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54884/sub/21681_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66152/SUB/uf20224pkwcs_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54682/sub/21974_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66205/SUB/kxg2somnjfmg_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54731/sub/21936_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66260/SUB/la3qf7qwf9sd_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54779/sub/24912_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66331/SUB/x1sa91vabvuz_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54828/sub/21867_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66383/SUB/009y1b9iwwwy_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 13",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54878/sub/21817_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 13",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66418/SUB/eid63hrpzczs_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 14",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66483/SUB/6rhjz6ztg6ml_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 15",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66543/SUB/q7c4u89avxyq_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66601/SUB/7c6ac4sjcedt_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 17",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66658/SUB/wkf3275gz7z3_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66715/SUB/sq8kdnv2vhzd_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 19",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66771/SUB/b5axgdk6o5bd_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 20",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66828/SUB/78o8qdex4m41_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 21",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66885/SUB/5zc1zksutw6g_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 22",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66943/SUB/68vupu9bv9fn_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 23",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66998/SUB/syo6zkpx0462_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
+        },
+        {
+            "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai 24",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67055/SUB/e7w9lzu91sng_h.class",
+            "playerLabel": "Toujima Tanzaburou wa Kamen Rider ni Naritai 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         }
     ]
 }

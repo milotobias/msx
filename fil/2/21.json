@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "headline": "Trigun Stargaze",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,76 @@
     },
     "items": [
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/66436/SUB/lrd09ssjlbfj_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66484/SUB/o680mebxevjc_h.class",
+            "playerLabel": "Trigun Stargaze 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66522/SUB/i6ssdzi1caai_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66538/SUB/lj0kpsptfvd6_h.class",
+            "playerLabel": "Trigun Stargaze 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66578/SUB/7dhh7oe74rcg_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66595/SUB/dsk6g3qpkgow_h.class",
+            "playerLabel": "Trigun Stargaze 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66636/SUB/zln1uow2gg94_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66653/SUB/jb0mtu7cyq8z_h.class",
+            "playerLabel": "Trigun Stargaze 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66694/SUB/9ox0akki6krf_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66710/SUB/kfuiqz0n7h04_h.class",
+            "playerLabel": "Trigun Stargaze 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66750/SUB/dmjbtpchddav_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66767/SUB/vgzts7vadkf5_h.class",
+            "playerLabel": "Trigun Stargaze 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66808/SUB/hx9qq6b2buc0_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66822/SUB/jyxcm2augsff_h.class",
+            "playerLabel": "Trigun Stargaze 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66863/SUB/e5dsebrnqhxr_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66879/SUB/jb2knodiouah_h.class",
+            "playerLabel": "Trigun Stargaze 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66921/SUB/31sxfv8g34nu_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66938/SUB/2fvpojtsfbpy_h.class",
+            "playerLabel": "Trigun Stargaze 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67035/SUB/ppbciw0cqyor_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66992/SUB/en50wuun2x2c_h.class",
+            "playerLabel": "Trigun Stargaze 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
-            "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67089/SUB/cr3jcg10bt6b_h.class",
-            "playerLabel": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
+            "title": "Trigun Stargaze 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67058/SUB/3f6wbj7cjaqr_h.class",
+            "playerLabel": "Trigun Stargaze 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+        },
+        {
+            "title": "Trigun Stargaze 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67105/SUB/gesfcd1ajffb_h.class",
+            "playerLabel": "Trigun Stargaze 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         }
     ]
 }

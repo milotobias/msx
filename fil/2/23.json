@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "kimi wa houkago",
+    "headline": "Usagi Drop",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,70 @@
     },
     "items": [
         {
-            "title": "kimi wa houkago 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59174/SUB/66777_720p.class",
-            "playerLabel": "kimi wa houkago 1",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/44677/sub/31639_480p.class",
+            "playerLabel": "Usagi Drop 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59224/SUB/66831_720p.class",
-            "playerLabel": "kimi wa houkago 2",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44678/sub/31638_480p.class",
+            "playerLabel": "Usagi Drop 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59277/SUB/66900_720p.class",
-            "playerLabel": "kimi wa houkago 3",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44679/sub/31637_480p.class",
+            "playerLabel": "Usagi Drop 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59326/SUB/66949_720p.class",
-            "playerLabel": "kimi wa houkago 4",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44680/sub/31636_480p.class",
+            "playerLabel": "Usagi Drop 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59374/SUB/66997_720p.class",
-            "playerLabel": "kimi wa houkago 5",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44681/sub/31635_480p.class",
+            "playerLabel": "Usagi Drop 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59423/SUB/67061_720p.class",
-            "playerLabel": "kimi wa houkago 6",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44682/sub/31634_480p.class",
+            "playerLabel": "Usagi Drop 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59472/SUB/67110_720p.class",
-            "playerLabel": "kimi wa houkago 7",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44683/sub/31633_480p.class",
+            "playerLabel": "Usagi Drop 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59518/SUB/67156_720p.class",
-            "playerLabel": "kimi wa houkago 8",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44684/sub/31632_480p.class",
+            "playerLabel": "Usagi Drop 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59567/SUB/67205_720p.class",
-            "playerLabel": "kimi wa houkago 9",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44685/sub/31631_480p.class",
+            "playerLabel": "Usagi Drop 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59616/SUB/67255_720p.class",
-            "playerLabel": "kimi wa houkago 10",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/44686/sub/31630_480p.class",
+            "playerLabel": "Usagi Drop 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
-            "title": "kimi wa houkago 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/59665/SUB/67305_720p.class",
-            "playerLabel": "kimi wa houkago 11",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
-        },
-        {
-            "title": "kimi wa houkago 12",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59703/SUB/67343_720p.class",
-            "playerLabel": "kimi wa houkago 12",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
-        },
-        {
-            "title": "kimi wa houkago 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59729/SUB/67368_720p.class",
-            "playerLabel": "kimi wa houkago 13",
-            "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
+            "title": "Usagi Drop 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44687/sub/31629_480p.class",
+            "playerLabel": "Usagi Drop 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Sanda",
+    "headline": "Nami yo Kiitekure",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,76 @@
     },
     "items": [
         {
-            "title": "Sanda 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65766/SUB/uk68rnkqvfsn_h.class",
-            "playerLabel": "Sanda 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52224/sub/24366_720p.class",
+            "playerLabel": "Nami yo Kiitekure 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65816/SUB/wulhs7mbx40x_h.class",
-            "playerLabel": "Sanda 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52270/sub/24320_720p.class",
+            "playerLabel": "Nami yo Kiitekure 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65869/SUB/p467isabgh79_h.class",
-            "playerLabel": "Sanda 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52322/sub/24279_720p.class",
+            "playerLabel": "Nami yo Kiitekure 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65923/SUB/vqlpe8fzsshn_h.class",
-            "playerLabel": "Sanda 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52356/sub/24246_720p.class",
+            "playerLabel": "Nami yo Kiitekure 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65977/SUB/gqx529ew5gwt_h.class",
-            "playerLabel": "Sanda 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52387/sub/24210_720p.class",
+            "playerLabel": "Nami yo Kiitekure 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66034/SUB/f6qw86k4v1ka_h.class",
-            "playerLabel": "Sanda 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52413/sub/24182_720p.class",
+            "playerLabel": "Nami yo Kiitekure 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66088/SUB/2rt0nbp24sz6_h.class",
-            "playerLabel": "Sanda 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52439/sub/24156_720p.class",
+            "playerLabel": "Nami yo Kiitekure 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66141/SUB/7mqibuj8ehva_h.class",
-            "playerLabel": "Sanda 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52466/sub/24129_720p.class",
+            "playerLabel": "Nami yo Kiitekure 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66194/SUB/z0rv1p89jl1f_h.class",
-            "playerLabel": "Sanda 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52490/sub/24105_720p.class",
+            "playerLabel": "Nami yo Kiitekure 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66249/SUB/onyfscbtjgu7_h.class",
-            "playerLabel": "Sanda 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52514/sub/24081_720p.class",
+            "playerLabel": "Nami yo Kiitekure 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66320/SUB/6ggjmdenikdp_h.class",
-            "playerLabel": "Sanda 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52553/sub/24042_720p.class",
+            "playerLabel": "Nami yo Kiitekure 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
-            "title": "Sanda 12",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66375/SUB/btsf94o0mbbc_h.class",
-            "playerLabel": "Sanda 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
+            "title": "Nami yo Kiitekure 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52576/sub/25155_720p.class",
+            "playerLabel": "Nami yo Kiitekure 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         }
     ]
 }

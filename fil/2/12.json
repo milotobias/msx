@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Medalist 2nd Season",
+    "headline": "Kakushigoto (TV)",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,58 +21,76 @@
     },
     "items": [
         {
-            "title": "Medalist 2nd Season 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66602/SUB/lcdl21gx4jwk_h.class",
-            "playerLabel": "Medalist 2nd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52216/sub/24374_720p.class",
+            "playerLabel": "Kakushigoto (TV) 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66660/SUB/261a1rxvsabo_h.class",
-            "playerLabel": "Medalist 2nd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52260/sub/24330_720p.class",
+            "playerLabel": "Kakushigoto (TV) 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66717/SUB/40lfhrhopvxk_h.class",
-            "playerLabel": "Medalist 2nd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52310/sub/24289_720p.class",
+            "playerLabel": "Kakushigoto (TV) 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66773/SUB/v4cs9tk3p0jh_h.class",
-            "playerLabel": "Medalist 2nd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52352/sub/24250_720p.class",
+            "playerLabel": "Kakushigoto (TV) 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66824/SUB/sb389sz7d6zy_h.class",
-            "playerLabel": "Medalist 2nd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52381/sub/24218_720p.class",
+            "playerLabel": "Kakushigoto (TV) 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66887/SUB/uo97w6i1nwtc_h.class",
-            "playerLabel": "Medalist 2nd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52408/sub/58286_720p.class",
+            "playerLabel": "Kakushigoto (TV) 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66945/SUB/mz04z6701v45_h.class",
-            "playerLabel": "Medalist 2nd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52433/sub/24162_720p.class",
+            "playerLabel": "Kakushigoto (TV) 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67000/SUB/9atxhqdwfl57_h.class",
-            "playerLabel": "Medalist 2nd Season 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52459/sub/24136_720p.class",
+            "playerLabel": "Kakushigoto (TV) 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         },
         {
-            "title": "Medalist 2nd Season 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67056/SUB/aokakucxewuk_h.class",
-            "playerLabel": "Medalist 2nd Season 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
+            "title": "Kakushigoto (TV) 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52485/sub/24110_720p.class",
+            "playerLabel": "Kakushigoto (TV) 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
+        },
+        {
+            "title": "Kakushigoto (TV) 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/52511/sub/24084_720p.class",
+            "playerLabel": "Kakushigoto (TV) 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
+        },
+        {
+            "title": "Kakushigoto (TV) 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/52549/sub/24046_720p.class",
+            "playerLabel": "Kakushigoto (TV) 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
+        },
+        {
+            "title": "Kakushigoto (TV) 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/52572/sub/25159_720p.class",
+            "playerLabel": "Kakushigoto (TV) 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kakushigoto-tv.jpg"
         }
     ]
 }
