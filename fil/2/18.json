@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Sentai Daishikkaku",
+    "headline": "Mato Seihei no Slave 2",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,148 +21,76 @@
     },
     "items": [
         {
-            "title": "Sentai Daishikkaku 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61731/SUB/69442_720p.class",
-            "playerLabel": "Sentai Daishikkaku 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66469/SUB/c7jkgnqugsdh_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61783/SUB/69495_720p.class",
-            "playerLabel": "Sentai Daishikkaku 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66528/SUB/9kpag6onuu8o_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61839/SUB/69551_720p.class",
-            "playerLabel": "Sentai Daishikkaku 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66583/SUB/2t57901bqiqg_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61898/SUB/69617_720p.class",
-            "playerLabel": "Sentai Daishikkaku 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66642/SUB/4rjh68c75jog_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62002/SUB/69719_720p.class",
-            "playerLabel": "Sentai Daishikkaku 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66698/SUB/pwizqw174veo_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62058/SUB/69781_720p.class",
-            "playerLabel": "Sentai Daishikkaku 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66756/SUB/c09688scc8m4_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62112/SUB/69907_720p.class",
-            "playerLabel": "Sentai Daishikkaku 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66812/SUB/lpay6puoi3y0_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62166/SUB/69961_720p.class",
-            "playerLabel": "Sentai Daishikkaku 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66869/SUB/siuvn9vxyugu_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62219/SUB/70014_720p.class",
-            "playerLabel": "Sentai Daishikkaku 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66928/SUB/pspgghtapulq_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62272/SUB/70067_720p.class",
-            "playerLabel": "Sentai Daishikkaku 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66983/SUB/qdfcmk5mt37n_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62321/SUB/70116_720p.class",
-            "playerLabel": "Sentai Daishikkaku 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67040/SUB/ytnunroiwihr_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
-            "title": "Sentai Daishikkaku 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62364/SUB/70163_720p.class",
-            "playerLabel": "Sentai Daishikkaku 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 13",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64479/SUB/nh2i46bdp37c_h.class",
-            "playerLabel": "Sentai Daishikkaku 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 14",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64529/SUB/zum879xcjy1k_h.class",
-            "playerLabel": "Sentai Daishikkaku 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 15",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64586/SUB/updrh6ue1ndh_h.class",
-            "playerLabel": "Sentai Daishikkaku 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 16",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64632/SUB/lgx0852agzng_h.class",
-            "playerLabel": "Sentai Daishikkaku 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64684/SUB/2228593u8k5b_h.class",
-            "playerLabel": "Sentai Daishikkaku 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 18",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64735/SUB/x8fd7w5nz6yv_h.class",
-            "playerLabel": "Sentai Daishikkaku 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 19",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64785/SUB/8hqcgmc9q3r0_h.class",
-            "playerLabel": "Sentai Daishikkaku 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 20",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64836/SUB/slqr5u91e53v_h.class",
-            "playerLabel": "Sentai Daishikkaku 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 21",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64884/SUB/h6dfbjill1ke_h.class",
-            "playerLabel": "Sentai Daishikkaku 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 22",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64933/SUB/o5r2c6or6ujf_h.class",
-            "playerLabel": "Sentai Daishikkaku 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 23",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64981/SUB/e7a0ljvszxx5_h.class",
-            "playerLabel": "Sentai Daishikkaku 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
-        },
-        {
-            "title": "Sentai Daishikkaku 24",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65014/SUB/thgjsxuc19io_h.class",
-            "playerLabel": "Sentai Daishikkaku 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+            "title": "Mato Seihei no Slave 2 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67096/SUB/0nb9of0vmgkq_h.class",
+            "playerLabel": "Mato Seihei no Slave 2 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         }
     ]
 }

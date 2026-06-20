@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Usagi Drop",
+    "headline": "Seihantai na Kimi to Boku",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,76 @@
     },
     "items": [
         {
-            "title": "Usagi Drop 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/44677/sub/31639_480p.class",
-            "playerLabel": "Usagi Drop 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66497/SUB/gime0hml0opv_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44678/sub/31638_480p.class",
-            "playerLabel": "Usagi Drop 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66548/SUB/h8bptdbqtrkb_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44679/sub/31637_480p.class",
-            "playerLabel": "Usagi Drop 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66606/SUB/slsuvlr5lxa7_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44680/sub/31636_480p.class",
-            "playerLabel": "Usagi Drop 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66664/SUB/um2ywdzs4ebs_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44681/sub/31635_480p.class",
-            "playerLabel": "Usagi Drop 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66720/SUB/sgtyuaclrok6_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44682/sub/31634_480p.class",
-            "playerLabel": "Usagi Drop 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66777/SUB/n4i2e04pyab0_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44683/sub/31633_480p.class",
-            "playerLabel": "Usagi Drop 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66832/SUB/3c2ienkhxzlj_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/44684/sub/31632_480p.class",
-            "playerLabel": "Usagi Drop 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66891/SUB/tllvlzl186t5_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44685/sub/31631_480p.class",
-            "playerLabel": "Usagi Drop 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66947/SUB/0k0ao164bcvx_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/44686/sub/31630_480p.class",
-            "playerLabel": "Usagi Drop 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67004/SUB/sr5x612rizjw_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
-            "title": "Usagi Drop 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/44687/sub/31629_480p.class",
-            "playerLabel": "Usagi Drop 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
+            "title": "Seihantai na Kimi to Boku 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67061/SUB/4sc7vc1mr9vd_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+        },
+        {
+            "title": "Seihantai na Kimi to Boku 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67120/SUB/snyk14z1l5tq_h.class",
+            "playerLabel": "Seihantai na Kimi to Boku 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         }
     ]
 }

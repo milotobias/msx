@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Gin no Saji",
+    "headline": "Fate/strange Fake",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,82 @@
     },
     "items": [
         {
-            "title": "Gin no Saji 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14158/sub/8451_480p.class",
-            "playerLabel": "Gin no Saji 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/63680/SUB/pm1pjfdpoz8s_h.class",
+            "playerLabel": "Fate/strange Fake 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14159/sub/8450_480p.class",
-            "playerLabel": "Gin no Saji 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66481/SUB/s5tp03qdb17w_h.class",
+            "playerLabel": "Fate/strange Fake 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14160/sub/8449_480p.class",
-            "playerLabel": "Gin no Saji 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66541/SUB/12ogb2xuvhli_h.class",
+            "playerLabel": "Fate/strange Fake 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14161/sub/8448_480p.class",
-            "playerLabel": "Gin no Saji 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66598/SUB/9ilxvk2xifk1_h.class",
+            "playerLabel": "Fate/strange Fake 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14162/sub/8447_480p.class",
-            "playerLabel": "Gin no Saji 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66656/SUB/awttmcdpokin_h.class",
+            "playerLabel": "Fate/strange Fake 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14163/sub/8446_480p.class",
-            "playerLabel": "Gin no Saji 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66713/SUB/rc7z9eeeyscp_h.class",
+            "playerLabel": "Fate/strange Fake 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14164/sub/8445_480p.class",
-            "playerLabel": "Gin no Saji 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66769/SUB/3y7optrxkgwd_h.class",
+            "playerLabel": "Fate/strange Fake 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14165/sub/8444_480p.class",
-            "playerLabel": "Gin no Saji 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66823/SUB/k0k8i3n4f034_h.class",
+            "playerLabel": "Fate/strange Fake 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/14166/sub/8443_480p.class",
-            "playerLabel": "Gin no Saji 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66883/SUB/f9h6hhdzixff_h.class",
+            "playerLabel": "Fate/strange Fake 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/14167/sub/8442_480p.class",
-            "playerLabel": "Gin no Saji 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66941/SUB/c9v101s2nn3k_h.class",
+            "playerLabel": "Fate/strange Fake 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         },
         {
-            "title": "Gin no Saji 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/14168/sub/8441_480p.class",
-            "playerLabel": "Gin no Saji 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gin-no-saji.jpg"
+            "title": "Fate/strange Fake 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66996/SUB/gkrls5du9jyt_h.class",
+            "playerLabel": "Fate/strange Fake 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67053/SUB/gwguj8yhx007_h.class",
+            "playerLabel": "Fate/strange Fake 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
+        },
+        {
+            "title": "Fate/strange Fake 13",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67108/SUB/iibxkq1fhn5c_h.class",
+            "playerLabel": "Fate/strange Fake 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/fatestrange-fake.jpg"
         }
     ]
 }

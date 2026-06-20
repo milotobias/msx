@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Trigun Stargaze",
+    "headline": "NieR:Automata Ver1.1a",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,148 @@
     },
     "items": [
         {
-            "title": "Trigun Stargaze 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66484/SUB/o680mebxevjc_h.class",
-            "playerLabel": "Trigun Stargaze 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/58431/SUB/66033_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 2",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66538/SUB/lj0kpsptfvd6_h.class",
-            "playerLabel": "Trigun Stargaze 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58491/SUB/66093_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66595/SUB/dsk6g3qpkgow_h.class",
-            "playerLabel": "Trigun Stargaze 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58554/SUB/66155_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66653/SUB/jb0mtu7cyq8z_h.class",
-            "playerLabel": "Trigun Stargaze 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/58795/SUB/66400_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66710/SUB/kfuiqz0n7h04_h.class",
-            "playerLabel": "Trigun Stargaze 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58849/SUB/66455_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66767/SUB/vgzts7vadkf5_h.class",
-            "playerLabel": "Trigun Stargaze 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58905/SUB/66511_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66822/SUB/jyxcm2augsff_h.class",
-            "playerLabel": "Trigun Stargaze 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/58958/SUB/66564_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66879/SUB/jb2knodiouah_h.class",
-            "playerLabel": "Trigun Stargaze 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59020/SUB/66627_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66938/SUB/2fvpojtsfbpy_h.class",
-            "playerLabel": "Trigun Stargaze 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/59881/SUB/67531_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66992/SUB/en50wuun2x2c_h.class",
-            "playerLabel": "Trigun Stargaze 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59882/SUB/67532_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67058/SUB/3f6wbj7cjaqr_h.class",
-            "playerLabel": "Trigun Stargaze 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59883/SUB/67533_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
-            "title": "Trigun Stargaze 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67105/SUB/gesfcd1ajffb_h.class",
-            "playerLabel": "Trigun Stargaze 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
+            "title": "NieR:Automata Ver1.1a 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/59884/SUB/67534_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 13",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62387/SUB/70186_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 14",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62435/SUB/70234_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 15",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62488/SUB/70287_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62542/SUB/70341_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62597/SUB/70396_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62644/SUB/70441_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 19",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62744/SUB/70540_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 20",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62793/SUB/70589_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 21",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62847/SUB/70675_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 22",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62896/SUB/70702_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 23",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62945/SUB/70751_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
+        },
+        {
+            "title": "NieR:Automata Ver1.1a 24",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62982/SUB/70785_720p.class",
+            "playerLabel": "NieR:Automata Ver1.1a 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         }
     ]
 }

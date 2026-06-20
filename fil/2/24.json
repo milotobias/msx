@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Vivy: Fluorite Eye's Song",
+    "headline": "Sentai Daishikkaku",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,82 +21,148 @@
     },
     "items": [
         {
-            "title": "Vivy: Fluorite Eye's Song 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54892/sub/21673_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61731/SUB/69442_720p.class",
+            "playerLabel": "Sentai Daishikkaku 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54890/sub/21675_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61783/SUB/69495_720p.class",
+            "playerLabel": "Sentai Daishikkaku 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54889/sub/21676_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61839/SUB/69551_720p.class",
+            "playerLabel": "Sentai Daishikkaku 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/54888/sub/21677_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61898/SUB/69617_720p.class",
+            "playerLabel": "Sentai Daishikkaku 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/54887/sub/21678_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62002/SUB/69719_720p.class",
+            "playerLabel": "Sentai Daishikkaku 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54886/sub/21679_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 6",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62058/SUB/69781_720p.class",
+            "playerLabel": "Sentai Daishikkaku 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54885/sub/21680_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62112/SUB/69907_720p.class",
+            "playerLabel": "Sentai Daishikkaku 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54884/sub/21681_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62166/SUB/69961_720p.class",
+            "playerLabel": "Sentai Daishikkaku 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54682/sub/21974_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62219/SUB/70014_720p.class",
+            "playerLabel": "Sentai Daishikkaku 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/54731/sub/21936_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/62272/SUB/70067_720p.class",
+            "playerLabel": "Sentai Daishikkaku 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 11",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54779/sub/24912_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/62321/SUB/70116_720p.class",
+            "playerLabel": "Sentai Daishikkaku 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54828/sub/21867_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/62364/SUB/70163_720p.class",
+            "playerLabel": "Sentai Daishikkaku 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
-            "title": "Vivy: Fluorite Eye's Song 13",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/54878/sub/21817_720p.class",
-            "playerLabel": "Vivy: Fluorite Eye's Song 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
+            "title": "Sentai Daishikkaku 13",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64479/SUB/nh2i46bdp37c_h.class",
+            "playerLabel": "Sentai Daishikkaku 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 14",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64529/SUB/zum879xcjy1k_h.class",
+            "playerLabel": "Sentai Daishikkaku 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 15",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64586/SUB/updrh6ue1ndh_h.class",
+            "playerLabel": "Sentai Daishikkaku 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 16",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64632/SUB/lgx0852agzng_h.class",
+            "playerLabel": "Sentai Daishikkaku 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64684/SUB/2228593u8k5b_h.class",
+            "playerLabel": "Sentai Daishikkaku 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64735/SUB/x8fd7w5nz6yv_h.class",
+            "playerLabel": "Sentai Daishikkaku 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 19",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64785/SUB/8hqcgmc9q3r0_h.class",
+            "playerLabel": "Sentai Daishikkaku 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 20",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64836/SUB/slqr5u91e53v_h.class",
+            "playerLabel": "Sentai Daishikkaku 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 21",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64884/SUB/h6dfbjill1ke_h.class",
+            "playerLabel": "Sentai Daishikkaku 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 22",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64933/SUB/o5r2c6or6ujf_h.class",
+            "playerLabel": "Sentai Daishikkaku 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 23",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64981/SUB/e7a0ljvszxx5_h.class",
+            "playerLabel": "Sentai Daishikkaku 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
+        },
+        {
+            "title": "Sentai Daishikkaku 24",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65014/SUB/thgjsxuc19io_h.class",
+            "playerLabel": "Sentai Daishikkaku 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         }
     ]
 }

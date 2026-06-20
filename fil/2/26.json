@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "[Oshi no Ko] 3rd Season",
+    "headline": "Texhnolyze",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,136 @@
     },
     "items": [
         {
-            "title": "[Oshi no Ko] 3rd Season 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66516/SUB/7czkirewklpu_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41780/sub/38250_480p.class",
+            "playerLabel": "Texhnolyze 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66572/SUB/dkiygxrv1o7y_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41781/sub/38249_480p.class",
+            "playerLabel": "Texhnolyze 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 3",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66630/SUB/8otu4jx049k6_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 3",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41782/sub/38248_480p.class",
+            "playerLabel": "Texhnolyze 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66688/SUB/0trpkando4kw_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/41783/sub/38247_480p.class",
+            "playerLabel": "Texhnolyze 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66744/SUB/hrrbuxcofom3_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41784/sub/38246_480p.class",
+            "playerLabel": "Texhnolyze 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66802/SUB/y0vf4mf7q5jr_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41785/sub/38245_480p.class",
+            "playerLabel": "Texhnolyze 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66857/SUB/2lqtzaickfoz_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41786/sub/38244_480p.class",
+            "playerLabel": "Texhnolyze 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66915/SUB/6lnirm8xp8bt_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41787/sub/38243_480p.class",
+            "playerLabel": "Texhnolyze 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66971/SUB/jvkuck2cp1sn_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41788/sub/38241_480p.class",
+            "playerLabel": "Texhnolyze 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67029/SUB/doogyimgylnn_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41789/sub/38242_480p.class",
+            "playerLabel": "Texhnolyze 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
-            "title": "[Oshi no Ko] 3rd Season 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67085/SUB/ir9ex0dqs8j2_h.class",
-            "playerLabel": "[Oshi no Ko] 3rd Season 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
+            "title": "Texhnolyze 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41790/sub/38240_480p.class",
+            "playerLabel": "Texhnolyze 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41791/sub/38239_480p.class",
+            "playerLabel": "Texhnolyze 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41792/sub/38238_480p.class",
+            "playerLabel": "Texhnolyze 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 14",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41793/sub/38237_480p.class",
+            "playerLabel": "Texhnolyze 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 15",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/41794/sub/38236_480p.class",
+            "playerLabel": "Texhnolyze 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 16",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/41795/sub/38235_480p.class",
+            "playerLabel": "Texhnolyze 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 17",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/41796/sub/38234_480p.class",
+            "playerLabel": "Texhnolyze 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 18",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41797/sub/38232_480p.class",
+            "playerLabel": "Texhnolyze 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 19",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41798/sub/38233_480p.class",
+            "playerLabel": "Texhnolyze 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 20",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41799/sub/38231_480p.class",
+            "playerLabel": "Texhnolyze 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 21",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/41800/sub/38230_480p.class",
+            "playerLabel": "Texhnolyze 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
+        },
+        {
+            "title": "Texhnolyze 22",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/41801/sub/38229_480p.class",
+            "playerLabel": "Texhnolyze 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         }
     ]
 }
