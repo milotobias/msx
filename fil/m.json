@@ -23,18 +23,43 @@
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta.jpg"
         },
         {
-            "title": "One Piece",
+            "title": "Mao",
             "action": "content:https://milotobias.github.io/msx/fil/1/4.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Nippon Sangoku",
+            "action": "content:https://milotobias.github.io/msx/fil/1/5.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "One Piece",
+            "action": "content:https://milotobias.github.io/msx/fil/1/6.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
         },
         {
+            "title": "Shunkashuutou Daikousha: Haru no Mai",
+            "action": "content:https://milotobias.github.io/msx/fil/1/7.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
             "title": "Steel Ball Run: JoJo no Kimyou na Bouken",
-            "action": "content:https://milotobias.github.io/msx/fil/1/5.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/8.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         },
         {
+            "title": "Tongari Boushi no Atelier",
+            "action": "content:https://milotobias.github.io/msx/fil/1/9.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai",
+            "action": "content:https://milotobias.github.io/msx/fil/1/10.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
             "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
-            "action": "content:https://milotobias.github.io/msx/fil/1/6.json",
+            "action": "content:https://milotobias.github.io/msx/fil/1/11.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.jpg"
         }
     ]

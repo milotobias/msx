@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "headline": "Nippon Sangoku",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,70 @@
     },
     "items": [
         {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
-            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
+            "title": "Nippon Sangoku 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67175/SUB/453v0tby0hpa_h.class",
+            "playerLabel": "Nippon Sangoku 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67235/SUB/gi35nodve8fx_h.class",
+            "playerLabel": "Nippon Sangoku 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67309/SUB/7faouy6zt0c9_h.class",
+            "playerLabel": "Nippon Sangoku 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67372/SUB/9aim8a6jxobp_h.class",
+            "playerLabel": "Nippon Sangoku 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67434/SUB/qm50wunnrrt1_h.class",
+            "playerLabel": "Nippon Sangoku 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67499/SUB/i351hixb5wv3_h.class",
+            "playerLabel": "Nippon Sangoku 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67562/SUB/iawwo442dy3h_h.class",
+            "playerLabel": "Nippon Sangoku 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67626/SUB/67626_720.class",
+            "playerLabel": "Nippon Sangoku 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67689/SUB/67689_720.class",
+            "playerLabel": "Nippon Sangoku 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 10",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67752/SUB/67752_720.class",
+            "playerLabel": "Nippon Sangoku 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
+            "title": "Nippon Sangoku 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67814/SUB/67814_720.class",
+            "playerLabel": "Nippon Sangoku 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
         }
     ]
 }
