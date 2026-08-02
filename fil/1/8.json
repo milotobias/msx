@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "headline": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,10 @@
     },
     "items": [
         {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
-            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
+            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68242/SUB/68242_1080.class",
+            "playerLabel": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+            "image": "https://tioanime.com/uploads/portadas/4494.jpg"
         }
     ]
 }
