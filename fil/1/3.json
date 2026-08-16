@@ -28,8 +28,14 @@
         },
         {
             "title": "Dogulwang 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68077/SUB/68077_1080.class#EXTINF:-1 tvg-logo=\"https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg\" group-title=\"Dogulwang\",Dogulwang 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68077/SUB/68077_1080.class",
             "playerLabel": "Dogulwang 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68149/SUB/nrlfrz23l39w_68149_1080.class",
+            "playerLabel": "Dogulwang 3",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
         },
         {
