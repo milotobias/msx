@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+    "headline": "Dogulwang",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,34 @@
     },
     "items": [
         {
-            "title": "Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta\",Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 14",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67118/SUB/wqfw2baioi2c_h.class",
-            "playerLabel": "Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta\",Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta.jpg"
+            "title": "Dogulwang 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68003/SUB/68003_1080.class",
+            "playerLabel": "Dogulwang 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68077/SUB/68077_1080.class#EXTINF:-1 tvg-logo=\"https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg\" group-title=\"Dogulwang\",Dogulwang 3",
+            "playerLabel": "Dogulwang 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68226/SUB/tdy1vlsmzedt_68226_1080.class",
+            "playerLabel": "Dogulwang 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68299/SUB/ft4u18iutd1t_68299_1080.class",
+            "playerLabel": "Dogulwang 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68375/SUB/pjjd9y8k2h9i_68375_1080.class",
+            "playerLabel": "Dogulwang 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
         }
     ]
 }

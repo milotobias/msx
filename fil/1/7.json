@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "headline": "Koukaku Kidoutai (TV)",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,40 @@
     },
     "items": [
         {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
-            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
+            "title": "Koukaku Kidoutai (TV) 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67990/SUB/67990_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+        },
+        {
+            "title": "Koukaku Kidoutai (TV) 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68064/SUB/68064_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+        },
+        {
+            "title": "Koukaku Kidoutai (TV) 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68137/SUB/buvprgh6ysay_68137_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+        },
+        {
+            "title": "Koukaku Kidoutai (TV) 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68212/SUB/uf8o85pdhjj8_68212_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+        },
+        {
+            "title": "Koukaku Kidoutai (TV) 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68287/SUB/n5a5vryp5dcp_68287_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+        },
+        {
+            "title": "Koukaku Kidoutai (TV) 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68360/SUB/1af3u7ibz30r_68360_1080.class",
+            "playerLabel": "Koukaku Kidoutai (TV) 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
         }
     ]
 }
