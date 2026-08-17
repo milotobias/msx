@@ -1,0 +1,138 @@
+{
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "type": "list",
+    "headline": "Yomi no Tsugai",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Yomi no Tsugai 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67164/SUB/78m0v7qck34n_h.class",
+            "playerLabel": "Yomi no Tsugai 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67223/SUB/fvoue3l4u2ks_h.class",
+            "playerLabel": "Yomi no Tsugai 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67296/SUB/p74jodubhhun_h.class",
+            "playerLabel": "Yomi no Tsugai 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67360/SUB/lang1sif7i83_h.class",
+            "playerLabel": "Yomi no Tsugai 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67422/SUB/72w3nisdc095_h.class",
+            "playerLabel": "Yomi no Tsugai 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67486/SUB/69olo6cnx1u5_h.class",
+            "playerLabel": "Yomi no Tsugai 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67550/SUB/zkux4laf58wy_h.class",
+            "playerLabel": "Yomi no Tsugai 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67614/SUB/67614_720.class",
+            "playerLabel": "Yomi no Tsugai 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 9",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67677/SUB/67677_720.class",
+            "playerLabel": "Yomi no Tsugai 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67739/SUB/67739_720.class",
+            "playerLabel": "Yomi no Tsugai 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67802/SUB/67802_720.class",
+            "playerLabel": "Yomi no Tsugai 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67862/SUB/67862_1080.class",
+            "playerLabel": "Yomi no Tsugai 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67958/SUB/67958_1080.class",
+            "playerLabel": "Yomi no Tsugai 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 14",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68028/SUB/68028_1080.class",
+            "playerLabel": "Yomi no Tsugai 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 15",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68101/SUB/68101_1080.class",
+            "playerLabel": "Yomi no Tsugai 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 16",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68175/SUB/qm29vynubwmz_68175_1080.class",
+            "playerLabel": "Yomi no Tsugai 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68251/SUB/76sueh28yl2q_68251_1080.class",
+            "playerLabel": "Yomi no Tsugai 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68323/SUB/zcotpvclyjsa_68323_1080.class",
+            "playerLabel": "Yomi no Tsugai 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai 19",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68402/SUB/af4uj20kidkc_68402_1080.class",
+            "playerLabel": "Yomi no Tsugai 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        }
+    ]
+}

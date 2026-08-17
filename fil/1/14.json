@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+    "headline": "Sayonara Lara",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,40 @@
     },
     "items": [
         {
-            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/68242/SUB/68242_1080.class#EXTINF:-1 tvg-logo=\"https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg\" group-title=\"Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 1",
-            "playerLabel": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-            "image": "https://tioanime.com/uploads/portadas/4494.jpg"
+            "title": "Sayonara Lara 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67974/SUB/67974_1080.class",
+            "playerLabel": "Sayonara Lara 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68045/SUB/68045_1080.class",
+            "playerLabel": "Sayonara Lara 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68193/SUB/hzbb97hzoh6q_68193_1080.class",
+            "playerLabel": "Sayonara Lara 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68268/SUB/3j6w10dxe4qj_68268_1080.class",
+            "playerLabel": "Sayonara Lara 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68342/SUB/yg5dlr4v3cag_68342_1080.class",
+            "playerLabel": "Sayonara Lara 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68420/SUB/tn443h0qv9m7_68420_1080.class",
+            "playerLabel": "Sayonara Lara 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
         }
     ]
 }

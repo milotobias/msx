@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Youjo Senki II",
+    "headline": "Tenmaku no Jaadugar",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,40 +21,52 @@
     },
     "items": [
         {
-            "title": "Youjo Senki II 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67995/SUB/67995_1080.class",
-            "playerLabel": "Youjo Senki II 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67959/SUB/67959_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Youjo Senki II 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68069/SUB/68069_1080.class",
-            "playerLabel": "Youjo Senki II 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67960/SUB/67960_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Youjo Senki II 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68142/SUB/2msriaqzd4gd_68142_1080.class",
-            "playerLabel": "Youjo Senki II 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68029/SUB/68029_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Youjo Senki II 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68218/SUB/1334se3ypi58_68218_1080.class",
-            "playerLabel": "Youjo Senki II 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68102/SUB/68102_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Youjo Senki II 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68371/SUB/rnaws18dkb4f_68371_1080.class",
-            "playerLabel": "Youjo Senki II 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68176/SUB/61sifp2y6sgj_68176_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Youjo Senki II 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68365/SUB/ynjpakvl1t6l_68365_1080.class",
-            "playerLabel": "Youjo Senki II 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+            "title": "Tenmaku no Jaadugar 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68250/SUB/abh9npczmyy2_68250_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
+        },
+        {
+            "title": "Tenmaku no Jaadugar 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68324/SUB/eghacumm1fsw_68324_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
+        },
+        {
+            "title": "Tenmaku no Jaadugar 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68403/SUB/221kw23gley0_68403_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         }
     ]
 }

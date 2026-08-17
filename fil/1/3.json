@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Dogulwang",
+    "headline": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,40 +21,76 @@
     },
     "items": [
         {
-            "title": "Dogulwang 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68003/SUB/68003_1080.class",
-            "playerLabel": "Dogulwang 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65022/SUB/7s35x2fckrdl_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         },
         {
-            "title": "Dogulwang 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68077/SUB/68077_1080.class",
-            "playerLabel": "Dogulwang 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65074/SUB/esp44kzyo6hk_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         },
         {
-            "title": "Dogulwang 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68149/SUB/nrlfrz23l39w_68149_1080.class",
-            "playerLabel": "Dogulwang 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65134/SUB/zn1lh9bctdj2_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         },
         {
-            "title": "Dogulwang 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68226/SUB/tdy1vlsmzedt_68226_1080.class",
-            "playerLabel": "Dogulwang 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65192/SUB/0tl0ijf7s87s_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         },
         {
-            "title": "Dogulwang 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68299/SUB/ft4u18iutd1t_68299_1080.class",
-            "playerLabel": "Dogulwang 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65252/SUB/wzlakrv880gt_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         },
         {
-            "title": "Dogulwang 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68375/SUB/pjjd9y8k2h9i_68375_1080.class",
-            "playerLabel": "Dogulwang 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65311/SUB/zj6wt2n7x3lc_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65370/SUB/uhmm4ov5uppl_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65428/SUB/114jd66m1xrp_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65488/SUB/vr113yna8sy0_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65544/SUB/rx0t25q3m11z_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65603/SUB/oksm03p6qaxt_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+        },
+        {
+            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65664/SUB/5uthorpk6px4_h.class",
+            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
         }
     ]
 }

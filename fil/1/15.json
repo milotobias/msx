@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Tongari Boushi no Atelier",
+    "headline": "Seihantai na Kimi to Boku 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,46 @@
     },
     "items": [
         {
-            "title": "Tongari Boushi no Atelier 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67178/SUB/r4917szfzzpd_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67970/SUB/67970_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67179/SUB/nwt8avbo2hjl_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68037/SUB/68037_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67243/SUB/woepcfrtghgp_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68112/SUB/l4elzkugjl8j_68112_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67315/SUB/5misukl3mvrd_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68185/SUB/fp6utpwou8c1_68185_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67379/SUB/bnf9zmrz4iez_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68261/SUB/kdmzhosn0yx6_68261_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67441/SUB/7x829coh3dnr_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68335/SUB/sge8d21m3ggm_68335_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Tongari Boushi no Atelier 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67505/SUB/i1mwjdqjs00j_h.class",
-            "playerLabel": "Tongari Boushi no Atelier 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
-        },
-        {
-            "title": "Tongari Boushi no Atelier 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67569/SUB/v_1080.class_1080.class",
-            "playerLabel": "Tongari Boushi no Atelier 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
-        },
-        {
-            "title": "Tongari Boushi no Atelier 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67633/SUB/67633_1080.class",
-            "playerLabel": "Tongari Boushi no Atelier 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
-        },
-        {
-            "title": "Tongari Boushi no Atelier 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67696/SUB/67696_720.class",
-            "playerLabel": "Tongari Boushi no Atelier 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
-        },
-        {
-            "title": "Tongari Boushi no Atelier 11",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67758/SUB/67758_720.class",
-            "playerLabel": "Tongari Boushi no Atelier 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
-        },
-        {
-            "title": "Tongari Boushi no Atelier 12",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67820/SUB/67820_720.class",
-            "playerLabel": "Tongari Boushi no Atelier 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tongari-boushi-no-atelier.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68411/SUB/ettey21od7b2_68411_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         }
     ]
 }

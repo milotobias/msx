@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "headline": "Black Torch",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,40 +21,46 @@
     },
     "items": [
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67994/SUB/67994_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67955/SUB/67955_1080.class",
+            "playerLabel": "Black Torch 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68068/SUB/68068_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68025/SUB/68025_1080.class",
+            "playerLabel": "Black Torch 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68141/SUB/cnz6ww89gi7j_68141_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68098/SUB/68098_1080.class",
+            "playerLabel": "Black Torch 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68217/SUB/mwv8cfx0ot4u_68217_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68172/SUB/jf70ktr15skg_68172_1080.class",
+            "playerLabel": "Black Torch 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68291/SUB/0cnvdgffg3wm_68291_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68245/SUB/v5noxhjsputs_68245_1080.class",
+            "playerLabel": "Black Torch 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68364/SUB/r6pbqje538wa_68364_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Black Torch 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68319/SUB/xkx2djjdhciy_68319_1080.class",
+            "playerLabel": "Black Torch 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
+        },
+        {
+            "title": "Black Torch 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68397/SUB/6v2rtezrsmbd_68397_1080.class",
+            "playerLabel": "Black Torch 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         }
     ]
 }

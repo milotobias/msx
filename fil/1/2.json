@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "headline": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,40 @@
     },
     "items": [
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65022/SUB/7s35x2fckrdl_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67994/SUB/67994_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65074/SUB/esp44kzyo6hk_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68068/SUB/68068_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65134/SUB/zn1lh9bctdj2_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68141/SUB/cnz6ww89gi7j_68141_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65192/SUB/0tl0ijf7s87s_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68217/SUB/mwv8cfx0ot4u_68217_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65252/SUB/wzlakrv880gt_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68291/SUB/0cnvdgffg3wm_68291_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65311/SUB/zj6wt2n7x3lc_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65370/SUB/uhmm4ov5uppl_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65428/SUB/114jd66m1xrp_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65488/SUB/vr113yna8sy0_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65544/SUB/rx0t25q3m11z_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65603/SUB/oksm03p6qaxt_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
-        },
-        {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65664/SUB/5uthorpk6px4_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68364/SUB/r6pbqje538wa_68364_1080.class",
+            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
         }
     ]
 }

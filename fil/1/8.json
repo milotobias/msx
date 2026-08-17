@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Mao",
+    "headline": "Kore Kaite Shine",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,70 +21,40 @@
     },
     "items": [
         {
-            "title": "Mao 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67168/SUB/2z02ijccnncu_h.class",
-            "playerLabel": "Mao 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67948/SUB/67948_1080.class",
+            "playerLabel": "Kore Kaite Shine 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         },
         {
-            "title": "Mao 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67230/SUB/7qqgs3yg8c51_h.class",
-            "playerLabel": "Mao 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68020/SUB/68020_1080.class",
+            "playerLabel": "Kore Kaite Shine 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         },
         {
-            "title": "Mao 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67303/SUB/vwymwoaai9fi_h.class",
-            "playerLabel": "Mao 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68092/SUB/68092_1080.class",
+            "playerLabel": "Kore Kaite Shine 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         },
         {
-            "title": "Mao 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67367/SUB/s31afaiyhbrv_h.class",
-            "playerLabel": "Mao 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68165/SUB/jasnriwnqpvh_68165_1080.class",
+            "playerLabel": "Kore Kaite Shine 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         },
         {
-            "title": "Mao 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67428/SUB/thr884zvywq3_h.class",
-            "playerLabel": "Mao 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68259/SUB/jfbq6g9sc4d9_68259_1080.class",
+            "playerLabel": "Kore Kaite Shine 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         },
         {
-            "title": "Mao 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67493/SUB/sqsidn1mhczk_h.class",
-            "playerLabel": "Mao 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
-        },
-        {
-            "title": "Mao 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67557/SUB/jiiq4lbmfla8_h.class",
-            "playerLabel": "Mao 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
-        },
-        {
-            "title": "Mao 8",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67621/SUB/67621_720.class",
-            "playerLabel": "Mao 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
-        },
-        {
-            "title": "Mao 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67683/SUB/67683_720.class",
-            "playerLabel": "Mao 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
-        },
-        {
-            "title": "Mao 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67746/SUB/67746_720.class",
-            "playerLabel": "Mao 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
-        },
-        {
-            "title": "Mao 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67809/SUB/67809_720.class",
-            "playerLabel": "Mao 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+            "title": "Kore Kaite Shine 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68313/SUB/mgowbaxqld16_68313_1080.class",
+            "playerLabel": "Kore Kaite Shine 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         }
     ]
 }

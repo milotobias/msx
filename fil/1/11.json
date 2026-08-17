@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Sora wa Akai Kawa no Hotori",
+    "headline": "Nige Jouzu no Wakagimi 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,40 +21,34 @@
     },
     "items": [
         {
-            "title": "Sora wa Akai Kawa no Hotori 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67993/SUB/67993_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68094/SUB/68094_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68067/SUB/68067_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68167/SUB/2qon65sw1ae2_68167_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68140/SUB/81m2kwbaaef6_68140_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68238/SUB/mvejvb1a74d6_68238_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68215/SUB/a5lmxu892bjk_68215_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68314/SUB/93hq1ailxvls_68314_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68290/SUB/e08blfut1rcx_68290_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
-        },
-        {
-            "title": "Sora wa Akai Kawa no Hotori 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68363/SUB/d87sv9ulyk6p_68363_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68389/SUB/ld1wr900zeuq_68389_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         }
     ]
 }

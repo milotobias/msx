@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Youjo Senki",
+    "headline": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,40 @@
     },
     "items": [
         {
-            "title": "Youjo Senki 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46326/lat/56683_720p.class",
-            "playerLabel": "Youjo Senki 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67982/SUB/67982_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 1",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         },
         {
-            "title": "Youjo Senki 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46327/lat/56682_720p.class",
-            "playerLabel": "Youjo Senki 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68055/SUB/68055_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 2",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         },
         {
-            "title": "Youjo Senki 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46328/lat/56681_720p.class",
-            "playerLabel": "Youjo Senki 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68129/SUB/zg7w1mmzdrf8_68129_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 3",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         },
         {
-            "title": "Youjo Senki 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46329/lat/57811_720p.class",
-            "playerLabel": "Youjo Senki 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68205/SUB/4413kbvpktli_68205_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 4",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         },
         {
-            "title": "Youjo Senki 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46330/lat/57809_720p.class",
-            "playerLabel": "Youjo Senki 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68278/SUB/qalzu47kc2pw_68278_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 5",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         },
         {
-            "title": "Youjo Senki 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46331/lat/58008_720p.class",
-            "playerLabel": "Youjo Senki 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46332/lat/57806_720p.class",
-            "playerLabel": "Youjo Senki 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46333/lat/56678_720p.class",
-            "playerLabel": "Youjo Senki 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46334/lat/56677_720p.class",
-            "playerLabel": "Youjo Senki 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46335/lat/56676_720p.class",
-            "playerLabel": "Youjo Senki 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46336/lat/56675_720p.class",
-            "playerLabel": "Youjo Senki 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
-        },
-        {
-            "title": "Youjo Senki 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46337/lat/56674_720p.class",
-            "playerLabel": "Youjo Senki 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+            "title": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68352/SUB/b64mhsoem8a3_68352_1080.class",
+            "playerLabel": "Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken\",Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken 6",
+            "image": "sets/images/animes/image/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken.jpg"
         }
     ]
 }

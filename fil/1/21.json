@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Youjo Senki Movie",
+    "headline": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,10 @@
     },
     "items": [
         {
-            "title": "Youjo Senki Movie 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/50762/sub/26006_720p.class",
-            "playerLabel": "Youjo Senki Movie 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-movie.jpg"
+            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68242/SUB/68242_1080.class#EXTINF:-1 tvg-logo=\"https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg\" group-title=\"Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 1",
+            "playerLabel": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+            "image": "https://tioanime.com/uploads/portadas/4494.jpg"
         }
     ]
 }
