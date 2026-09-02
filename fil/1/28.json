@@ -55,6 +55,18 @@
             "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68365/SUB/ynjpakvl1t6l_68365_1080.class",
             "playerLabel": "Youjo Senki II 6",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+        },
+        {
+            "title": "Youjo Senki II 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68442/SUB/qzb4b2je64rs_68442_1080.class",
+            "playerLabel": "Youjo Senki II 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
+        },
+        {
+            "title": "Youjo Senki II 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68516/SUB/23fkhvu297lu_68516_1080.class",
+            "playerLabel": "Youjo Senki II 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         }
     ]
 }

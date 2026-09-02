@@ -55,6 +55,18 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68375/SUB/pjjd9y8k2h9i_68375_1080.class",
             "playerLabel": "Dogulwang 6",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68451/SUB/sxqz98w2l5fn_68451_1080.class",
+            "playerLabel": "Dogulwang 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
+        },
+        {
+            "title": "Dogulwang 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68525/SUB/sf2zvjqjzrhk_68525_1080.class",
+            "playerLabel": "Dogulwang 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/dogulwang.jpg"
         }
     ]
 }

@@ -55,6 +55,18 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68420/SUB/tn443h0qv9m7_68420_1080.class",
             "playerLabel": "Sayonara Lara 7",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68494/SUB/6r87fwsi2y03_68494_1080.class",
+            "playerLabel": "Sayonara Lara 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
+            "title": "Sayonara Lara 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68567/SUB/bghqk6euepzw_68567_1080.class",
+            "playerLabel": "Sayonara Lara 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
         }
     ]
 }

@@ -61,6 +61,18 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68397/SUB/6v2rtezrsmbd_68397_1080.class",
             "playerLabel": "Black Torch 7",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
+        },
+        {
+            "title": "Black Torch 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68472/SUB/18bgi7axgjd6_68472_1080.class",
+            "playerLabel": "Black Torch 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
+        },
+        {
+            "title": "Black Torch 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68545/SUB/5y9tswml4zc6_68545_1080.class",
+            "playerLabel": "Black Torch 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/black-torch.jpg"
         }
     ]
 }

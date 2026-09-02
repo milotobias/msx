@@ -61,6 +61,24 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68350/SUB/nid0w5ucvshz_68350_1080.class",
             "playerLabel": "World Is Dancing 7",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68427/SUB/dsp6b8aawjcq_68427_1080.class",
+            "playerLabel": "World Is Dancing 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68503/SUB/kmrw76uxgsu4_68503_1080.class",
+            "playerLabel": "World Is Dancing 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68575/SUB/gp6kh4wwk6w9_68575_1080.class",
+            "playerLabel": "World Is Dancing 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         }
     ]
 }
