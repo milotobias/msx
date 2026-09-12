@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "headline": "Enen no Shouboutai: San no Shou",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,154 @@
     },
     "items": [
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65022/SUB/7s35x2fckrdl_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64413/SUB/25ln40sy0f1x_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65074/SUB/esp44kzyo6hk_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64461/SUB/ouz4ewy4xuc7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65134/SUB/zn1lh9bctdj2_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64509/SUB/qfcv3pzz65t5_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65192/SUB/0tl0ijf7s87s_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64565/SUB/ashbd8rnoaa7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65252/SUB/wzlakrv880gt_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64613/SUB/7gca9ailxvc2_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65311/SUB/zj6wt2n7x3lc_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64664/SUB/czuwm4oxox3t_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65370/SUB/uhmm4ov5uppl_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64714/SUB/abn5mjjdo1j3_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65428/SUB/114jd66m1xrp_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64765/SUB/0ysfd9ynv4th_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65488/SUB/vr113yna8sy0_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64816/SUB/58neceaz2cc5_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65544/SUB/rx0t25q3m11z_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64865/SUB/xmy4xv22l5ic_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65603/SUB/oksm03p6qaxt_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64914/SUB/ahiorh3l91kv_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65664/SUB/5uthorpk6px4_h.class",
-            "playerLabel": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha.jpg"
+            "title": "Enen no Shouboutai: San no Shou 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64963/SUB/rraf3g0p7g29_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66476/SUB/n7qwxn9x027i_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 14",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66533/SUB/3jddb53ep8zn_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 15",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66589/SUB/ew82ydhwmxje_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 16",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66647/SUB/4f4q73rqcu7g_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66706/SUB/bwhz30h9s27z_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 18",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66761/SUB/d09fid4f2p3x_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 19",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66817/SUB/gupyg2f9rg18_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 20",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66876/SUB/ikx23qej4b79_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 21",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66932/SUB/sffz0fr2d9e7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 22",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66988/SUB/qc7hilsw6yz6_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 23",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67047/SUB/0vhh49sajhtf_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 24",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67100/SUB/vvzbjubddb6r_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
+        },
+        {
+            "title": "Enen no Shouboutai: San no Shou 25",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67156/SUB/aae8ev3oxjma_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 25",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         }
     ]
 }

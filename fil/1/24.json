@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita",
+    "headline": "Youjo Senki",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,52 +21,76 @@
     },
     "items": [
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68049/SUB/68049_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46326/lat/56683_720p.class",
+            "playerLabel": "Youjo Senki 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68124/SUB/ny5t9vt14xz8_68124_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46327/lat/56682_720p.class",
+            "playerLabel": "Youjo Senki 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68199/SUB/tvil29tjpbmn_68199_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46328/lat/56681_720p.class",
+            "playerLabel": "Youjo Senki 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68273/SUB/s3cznhulrhme_68273_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46329/lat/57811_720p.class",
+            "playerLabel": "Youjo Senki 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68347/SUB/bdd1utahbabk_68347_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46330/lat/57809_720p.class",
+            "playerLabel": "Youjo Senki 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68424/SUB/zbbrrczd7b5d_68424_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46331/lat/58008_720p.class",
+            "playerLabel": "Youjo Senki 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68498/SUB/uuyifzh21966_68498_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46332/lat/57806_720p.class",
+            "playerLabel": "Youjo Senki 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         },
         {
-            "title": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68571/SUB/2r6fmet9cyun_68571_1080.class",
-            "playerLabel": "Me ni Mienai Koi wo Shita\",Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita.jpg"
+            "title": "Youjo Senki 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46333/lat/56678_720p.class",
+            "playerLabel": "Youjo Senki 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+        },
+        {
+            "title": "Youjo Senki 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46334/lat/56677_720p.class",
+            "playerLabel": "Youjo Senki 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+        },
+        {
+            "title": "Youjo Senki 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46335/lat/56676_720p.class",
+            "playerLabel": "Youjo Senki 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+        },
+        {
+            "title": "Youjo Senki 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46336/lat/56675_720p.class",
+            "playerLabel": "Youjo Senki 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
+        },
+        {
+            "title": "Youjo Senki 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/46337/lat/56674_720p.class",
+            "playerLabel": "Youjo Senki 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki.jpg"
         }
     ]
 }

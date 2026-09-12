@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Kore Kaite Shine",
+    "headline": "Nige Jouzu no Wakagimi 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,40 +21,46 @@
     },
     "items": [
         {
-            "title": "Kore Kaite Shine 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67948/SUB/67948_1080.class",
-            "playerLabel": "Kore Kaite Shine 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68094/SUB/68094_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Kore Kaite Shine 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68020/SUB/68020_1080.class",
-            "playerLabel": "Kore Kaite Shine 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68167/SUB/2qon65sw1ae2_68167_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Kore Kaite Shine 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68092/SUB/68092_1080.class",
-            "playerLabel": "Kore Kaite Shine 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68238/SUB/mvejvb1a74d6_68238_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Kore Kaite Shine 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68165/SUB/jasnriwnqpvh_68165_1080.class",
-            "playerLabel": "Kore Kaite Shine 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68314/SUB/93hq1ailxvls_68314_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Kore Kaite Shine 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68259/SUB/jfbq6g9sc4d9_68259_1080.class",
-            "playerLabel": "Kore Kaite Shine 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68389/SUB/ld1wr900zeuq_68389_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Kore Kaite Shine 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68313/SUB/mgowbaxqld16_68313_1080.class",
-            "playerLabel": "Kore Kaite Shine 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68468/SUB/ih4a4uwlqfiq_68468_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
+        },
+        {
+            "title": "Nige Jouzu no Wakagimi 2nd Season 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68541/SUB/61y0bi8wjt27_68541_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         }
     ]
 }

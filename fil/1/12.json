@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+    "headline": "Seihantai na Kimi to Boku 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,46 +21,46 @@
     },
     "items": [
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67973/SUB/67973_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67970/SUB/67970_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68042/SUB/68042_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68037/SUB/68037_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68116/SUB/91tdgi4s7kb4_68116_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68112/SUB/l4elzkugjl8j_68112_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68190/SUB/7wt4s64svf9a_68190_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68185/SUB/fp6utpwou8c1_68185_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68267/SUB/78qpphzddg7f_68267_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68261/SUB/kdmzhosn0yx6_68261_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68339/SUB/j2az36rxq7z7_68339_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68335/SUB/sge8d21m3ggm_68335_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68417/SUB/oa169dzf4u6t_68417_1080.class",
-            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68411/SUB/ettey21od7b2_68411_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         }
     ]
 }

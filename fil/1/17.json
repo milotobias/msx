@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Sora wa Akai Kawa no Hotori",
+    "headline": "Tenmaku no Jaadugar",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,58 +21,76 @@
     },
     "items": [
         {
-            "title": "Sora wa Akai Kawa no Hotori 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67993/SUB/67993_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67959/SUB/67959_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68067/SUB/68067_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67960/SUB/67960_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68140/SUB/81m2kwbaaef6_68140_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68029/SUB/68029_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68215/SUB/a5lmxu892bjk_68215_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68102/SUB/68102_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68290/SUB/e08blfut1rcx_68290_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68176/SUB/61sifp2y6sgj_68176_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68363/SUB/d87sv9ulyk6p_68363_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68250/SUB/abh9npczmyy2_68250_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68440/SUB/zsvyflvas4lo_68440_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68324/SUB/eghacumm1fsw_68324_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68514/SUB/udoogzlv9pax_68514_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68403/SUB/221kw23gley0_68403_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         },
         {
-            "title": "Sora wa Akai Kawa no Hotori 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68589/SUB/f3dg475plx62_68589_1080.class",
-            "playerLabel": "Sora wa Akai Kawa no Hotori 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sora-wa-akai-kawa-no-hotori.jpg"
+            "title": "Tenmaku no Jaadugar 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68477/SUB/wrhg3cw99x8s_68477_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
+        },
+        {
+            "title": "Tenmaku no Jaadugar 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68549/SUB/93zhjawvbqr5_68549_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
+        },
+        {
+            "title": "Tenmaku no Jaadugar 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68627/SUB/5dizzwcl0jwi_68627_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
+        },
+        {
+            "title": "Tenmaku no Jaadugar 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68703/SUB/ct86hkdjdvd7_68703_1080.class",
+            "playerLabel": "Tenmaku no Jaadugar 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tenmaku-no-jaadugar.jpg"
         }
     ]
 }

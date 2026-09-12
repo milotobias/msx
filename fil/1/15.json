@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Seihantai na Kimi to Boku 2nd Season",
+    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,46 +21,10 @@
     },
     "items": [
         {
-            "title": "Seihantai na Kimi to Boku 2nd Season 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67970/SUB/67970_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68037/SUB/68037_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68112/SUB/l4elzkugjl8j_68112_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68185/SUB/fp6utpwou8c1_68185_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68261/SUB/kdmzhosn0yx6_68261_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68335/SUB/sge8d21m3ggm_68335_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
-        },
-        {
-            "title": "Seihantai na Kimi to Boku 2nd Season 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68411/SUB/ettey21od7b2_68411_1080.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
+            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
+            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
         }
     ]
 }

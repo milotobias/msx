@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "World Is Dancing",
+    "headline": "Youjo Senki II",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,64 +21,52 @@
     },
     "items": [
         {
-            "title": "World Is Dancing 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67922/SUB/67922_1080.class",
-            "playerLabel": "World Is Dancing 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67995/SUB/67995_1080.class",
+            "playerLabel": "Youjo Senki II 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67977/SUB/67977_1080.class",
-            "playerLabel": "World Is Dancing 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68069/SUB/68069_1080.class",
+            "playerLabel": "Youjo Senki II 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68052/SUB/68052_1080.class",
-            "playerLabel": "World Is Dancing 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68142/SUB/2msriaqzd4gd_68142_1080.class",
+            "playerLabel": "Youjo Senki II 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68127/SUB/jcbwbyvqtvd8_68127_1080.class",
-            "playerLabel": "World Is Dancing 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68218/SUB/1334se3ypi58_68218_1080.class",
+            "playerLabel": "Youjo Senki II 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68202/SUB/yojfbo1vc07y_68202_1080.class",
-            "playerLabel": "World Is Dancing 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68371/SUB/rnaws18dkb4f_68371_1080.class",
+            "playerLabel": "Youjo Senki II 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68276/SUB/q7hecrfl679u_68276_1080.class",
-            "playerLabel": "World Is Dancing 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68365/SUB/ynjpakvl1t6l_68365_1080.class",
+            "playerLabel": "Youjo Senki II 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68350/SUB/nid0w5ucvshz_68350_1080.class",
-            "playerLabel": "World Is Dancing 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68442/SUB/qzb4b2je64rs_68442_1080.class",
+            "playerLabel": "Youjo Senki II 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         },
         {
-            "title": "World Is Dancing 8",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68427/SUB/dsp6b8aawjcq_68427_1080.class",
-            "playerLabel": "World Is Dancing 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
-        },
-        {
-            "title": "World Is Dancing 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68503/SUB/kmrw76uxgsu4_68503_1080.class",
-            "playerLabel": "World Is Dancing 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
-        },
-        {
-            "title": "World Is Dancing 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68575/SUB/gp6kh4wwk6w9_68575_1080.class",
-            "playerLabel": "World Is Dancing 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+            "title": "Youjo Senki II 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68516/SUB/23fkhvu297lu_68516_1080.class",
+            "playerLabel": "Youjo Senki II 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-ii.jpg"
         }
     ]
 }

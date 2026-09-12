@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Koukaku Kidoutai (TV)",
+    "headline": "Nijusseiki Denki Mokuroku: Eureka Evrika",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,55 +21,46 @@
     },
     "items": [
         {
-            "title": "Koukaku Kidoutai (TV) 1",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67990/SUB/67990_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67973/SUB/67973_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68064/SUB/68064_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68042/SUB/68042_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68137/SUB/buvprgh6ysay_68137_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68116/SUB/91tdgi4s7kb4_68116_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68212/SUB/uf8o85pdhjj8_68212_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68190/SUB/7wt4s64svf9a_68190_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68287/SUB/n5a5vryp5dcp_68287_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68267/SUB/78qpphzddg7f_68267_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68360/SUB/1af3u7ibz30r_68360_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68339/SUB/j2az36rxq7z7_68339_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         },
         {
-            "title": "Koukaku Kidoutai (TV) 7",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68437/SUB/e1wambkk2cuy_68437_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 7"
-        },
-        {
-            "title": "Koukaku Kidoutai (TV) 8",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/68513/SUB/8a181e92ltgt_68513_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 8"
-        },
-        {
-            "title": "Koukaku Kidoutai (TV) 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68586/SUB/c868vlbvn144_68586_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 9"
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68417/SUB/oa169dzf4u6t_68417_1080.class",
+            "playerLabel": "Nijusseiki Denki Mokuroku: Eureka Evrika 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
         }
     ]
 }
