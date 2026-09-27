@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Tetsunabe no Jan!",
+    "headline": "World Is Dancing",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,58 +21,82 @@
     },
     "items": [
         {
-            "title": "Tetsunabe no Jan! 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67971/SUB/67971_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67922/SUB/67922_1080.class",
+            "playerLabel": "World Is Dancing 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68039/SUB/68039_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67977/SUB/67977_1080.class",
+            "playerLabel": "World Is Dancing 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68114/SUB/8ysebyqebrtk_68114_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68052/SUB/68052_1080.class",
+            "playerLabel": "World Is Dancing 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68187/SUB/swaemg89f7zr_68187_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68127/SUB/jcbwbyvqtvd8_68127_1080.class",
+            "playerLabel": "World Is Dancing 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68262/SUB/wrji87ugaojn_68262_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68202/SUB/yojfbo1vc07y_68202_1080.class",
+            "playerLabel": "World Is Dancing 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68336/SUB/6bycoxs48cvi_68336_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68276/SUB/q7hecrfl679u_68276_1080.class",
+            "playerLabel": "World Is Dancing 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68413/SUB/apb39ghov5fm_68413_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68350/SUB/nid0w5ucvshz_68350_1080.class",
+            "playerLabel": "World Is Dancing 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68489/SUB/8sbwhimv1lfz_68489_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68427/SUB/dsp6b8aawjcq_68427_1080.class",
+            "playerLabel": "World Is Dancing 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         },
         {
-            "title": "Tetsunabe no Jan! 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68561/SUB/nhplcz1bnwly_68561_1080.class",
-            "playerLabel": "Tetsunabe no Jan! 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+            "title": "World Is Dancing 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68503/SUB/kmrw76uxgsu4_68503_1080.class",
+            "playerLabel": "World Is Dancing 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68575/SUB/gp6kh4wwk6w9_68575_1080.class",
+            "playerLabel": "World Is Dancing 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68654/SUB/l0n05yk9ewoq_68654_1080.class",
+            "playerLabel": "World Is Dancing 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68730/SUB/dj05cj8rxqfa_68730_1080.class",
+            "playerLabel": "World Is Dancing 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "World Is Dancing 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68795/SUB/7bmkgtu5d6d6_68795_1080.class",
+            "playerLabel": "World Is Dancing 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
         }
     ]
 }
