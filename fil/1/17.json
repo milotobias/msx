@@ -73,6 +73,24 @@
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68561/SUB/nhplcz1bnwly_68561_1080.class",
             "playerLabel": "Tetsunabe no Jan! 9",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+        },
+        {
+            "title": "Tetsunabe no Jan! 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68640/SUB/8tzjdakfjvb3_68640_1080.class",
+            "playerLabel": "Tetsunabe no Jan! 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+        },
+        {
+            "title": "Tetsunabe no Jan! 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68716/SUB/sxpro3lhnni7_68716_1080.class",
+            "playerLabel": "Tetsunabe no Jan! 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+        },
+        {
+            "title": "Tetsunabe no Jan! 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68781/SUB/t20332fd71iy_68781_1080.class",
+            "playerLabel": "Tetsunabe no Jan! 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
         }
     ]
 }

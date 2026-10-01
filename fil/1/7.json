@@ -139,6 +139,36 @@
             "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68410/SUB/o4ybapr7zt8s_68410_1080.class",
             "playerLabel": "Mao 20",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 21",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68485/SUB/r3qo27j60eic_68485_1080.class",
+            "playerLabel": "Mao 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 22",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68557/SUB/icsk1hxap6z3_68557_1080.class",
+            "playerLabel": "Mao 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 23",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68636/SUB/z6l76ueqksmd_68636_1080.class",
+            "playerLabel": "Mao 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 24",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68712/SUB/cai28xl9g54c_68712_1080.class",
+            "playerLabel": "Mao 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 25",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68779/SUB/t8lsuc8mj052_68779_1080.class",
+            "playerLabel": "Mao 25",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         }
     ]
 }
