@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Seihantai na Kimi to Boku",
+    "headline": "Nige Jouzu no Wakagimi 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,76 @@
     },
     "items": [
         {
-            "title": "Seihantai na Kimi to Boku 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66497/SUB/gime0hml0opv_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68094/SUB/68094_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66548/SUB/h8bptdbqtrkb_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68167/SUB/2qon65sw1ae2_68167_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66606/SUB/slsuvlr5lxa7_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68238/SUB/mvejvb1a74d6_68238_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66664/SUB/um2ywdzs4ebs_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68314/SUB/93hq1ailxvls_68314_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66720/SUB/sgtyuaclrok6_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68389/SUB/ld1wr900zeuq_68389_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66777/SUB/n4i2e04pyab0_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68468/SUB/ih4a4uwlqfiq_68468_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 7",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66832/SUB/3c2ienkhxzlj_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68541/SUB/61y0bi8wjt27_68541_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66891/SUB/tllvlzl186t5_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 8",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68617/SUB/ymnagnav3cu6_68617_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 9",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66947/SUB/0k0ao164bcvx_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68693/SUB/4n6dq4apsc0k_68693_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 10",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67004/SUB/sr5x612rizjw_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68763/SUB/1ezkvr1skcku_68763_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67061/SUB/4sc7vc1mr9vd_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68818/SUB/d8ms0c8vips3_68818_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         },
         {
-            "title": "Seihantai na Kimi to Boku 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67120/SUB/snyk14z1l5tq_h.class",
-            "playerLabel": "Seihantai na Kimi to Boku 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
+            "title": "Nige Jouzu no Wakagimi 2nd Season 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68852/SUB/46mwliyghswy_68852_1080.class",
+            "playerLabel": "Nige Jouzu no Wakagimi 2nd Season 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
         }
     ]
 }

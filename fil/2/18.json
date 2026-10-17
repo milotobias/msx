@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Mato Seihei no Slave 2",
+    "headline": "Mao",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,76 +21,154 @@
     },
     "items": [
         {
-            "title": "Mato Seihei no Slave 2 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66469/SUB/c7jkgnqugsdh_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67168/SUB/2z02ijccnncu_h.class",
+            "playerLabel": "Mao 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 2",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66528/SUB/9kpag6onuu8o_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67230/SUB/7qqgs3yg8c51_h.class",
+            "playerLabel": "Mao 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66583/SUB/2t57901bqiqg_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67303/SUB/vwymwoaai9fi_h.class",
+            "playerLabel": "Mao 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 4",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66642/SUB/4rjh68c75jog_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67367/SUB/s31afaiyhbrv_h.class",
+            "playerLabel": "Mao 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 5",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66698/SUB/pwizqw174veo_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 5",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67428/SUB/thr884zvywq3_h.class",
+            "playerLabel": "Mao 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 6",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66756/SUB/c09688scc8m4_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67493/SUB/sqsidn1mhczk_h.class",
+            "playerLabel": "Mao 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66812/SUB/lpay6puoi3y0_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 7",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67557/SUB/jiiq4lbmfla8_h.class",
+            "playerLabel": "Mao 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66869/SUB/siuvn9vxyugu_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67621/SUB/67621_720.class",
+            "playerLabel": "Mao 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 9",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66928/SUB/pspgghtapulq_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67683/SUB/67683_720.class",
+            "playerLabel": "Mao 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 10",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66983/SUB/qdfcmk5mt37n_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67746/SUB/67746_720.class",
+            "playerLabel": "Mao 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67040/SUB/ytnunroiwihr_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67809/SUB/67809_720.class",
+            "playerLabel": "Mao 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2 12",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67096/SUB/0nb9of0vmgkq_h.class",
-            "playerLabel": "Mato Seihei no Slave 2 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
+            "title": "Mao 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67869/SUB/67869_1080.class",
+            "playerLabel": "Mao 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67915/SUB/67915_1080.class",
+            "playerLabel": "Mao 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 14",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67967/SUB/67967_1080.class",
+            "playerLabel": "Mao 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 15",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68110/SUB/68110_1080.class",
+            "playerLabel": "Mao 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 16",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68111/SUB/68111_1080.class",
+            "playerLabel": "Mao 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 17",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68198/SUB/yk1qt02p7cd9_68198_1080.class",
+            "playerLabel": "Mao 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 18",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68258/SUB/z236dmtgh4rq_68258_1080.class",
+            "playerLabel": "Mao 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 19",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68333/SUB/gs4bbttgiwrc_68333_1080.class",
+            "playerLabel": "Mao 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 20",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68410/SUB/o4ybapr7zt8s_68410_1080.class",
+            "playerLabel": "Mao 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 21",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68485/SUB/r3qo27j60eic_68485_1080.class",
+            "playerLabel": "Mao 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 22",
+            "action": "video:https://back.animecenter.network/file/animecenbs1/68557/SUB/icsk1hxap6z3_68557_1080.class",
+            "playerLabel": "Mao 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 23",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68636/SUB/z6l76ueqksmd_68636_1080.class",
+            "playerLabel": "Mao 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 24",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68712/SUB/cai28xl9g54c_68712_1080.class",
+            "playerLabel": "Mao 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mao 25",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68779/SUB/t8lsuc8mj052_68779_1080.class",
+            "playerLabel": "Mao 25",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
         }
     ]
 }

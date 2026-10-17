@@ -93,93 +93,143 @@
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mf-ghost.jpg"
         },
         {
-            "title": "Mato Seihei no Slave 2",
+            "title": "Mao",
             "action": "content:https://milotobias.github.io/msx/fil/2/18.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/mao.jpg"
+        },
+        {
+            "title": "Mato Seihei no Slave 2",
+            "action": "content:https://milotobias.github.io/msx/fil/2/19.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/mato-seihei-no-slave-2.jpg"
         },
         {
             "title": "Medalist 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/19.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/20.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/medalist-2nd-season.jpg"
         },
         {
             "title": "Nami yo Kiitekure",
-            "action": "content:https://milotobias.github.io/msx/fil/2/20.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/21.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/nami-yo-kiitekure.jpg"
         },
         {
             "title": "NieR:Automata Ver1.1a",
-            "action": "content:https://milotobias.github.io/msx/fil/2/21.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/22.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/nierautomata-ver11a.jpg"
         },
         {
+            "title": "Nige Jouzu no Wakagimi 2nd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/2/23.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nige-jouzu-no-wakagimi-2nd-season.jpg"
+        },
+        {
+            "title": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+            "action": "content:https://milotobias.github.io/msx/fil/2/24.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nijusseiki-denki-mokuroku-eureka-evrika.jpg"
+        },
+        {
+            "title": "Nippon Sangoku",
+            "action": "content:https://milotobias.github.io/msx/fil/2/25.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/nippon-sangoku.jpg"
+        },
+        {
             "title": "Sanda",
-            "action": "content:https://milotobias.github.io/msx/fil/2/22.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/26.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sanda.jpg"
         },
         {
+            "title": "Sayonara Lara",
+            "action": "content:https://milotobias.github.io/msx/fil/2/27.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/sayonara-lara.jpg"
+        },
+        {
             "title": "Seihantai na Kimi to Boku",
-            "action": "content:https://milotobias.github.io/msx/fil/2/23.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/28.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku.jpg"
         },
         {
+            "title": "Seihantai na Kimi to Boku 2nd Season",
+            "action": "content:https://milotobias.github.io/msx/fil/2/29.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
+        },
+        {
             "title": "Sentai Daishikkaku",
-            "action": "content:https://milotobias.github.io/msx/fil/2/24.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/30.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sentai-daishikkaku.jpg"
         },
         {
             "title": "Sousou no Frieren 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/25.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/31.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/sousou-no-frieren-2nd-season.jpg"
         },
         {
+            "title": "Tetsunabe no Jan!",
+            "action": "content:https://milotobias.github.io/msx/fil/2/32.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tetsunabe-no-jan.jpg"
+        },
+        {
             "title": "Texhnolyze",
-            "action": "content:https://milotobias.github.io/msx/fil/2/26.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/33.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/texhnolyze.jpg"
         },
         {
             "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-            "action": "content:https://milotobias.github.io/msx/fil/2/27.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/34.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/toujima-tanzaburou-wa-kamen-rider-ni-naritai.jpg"
         },
         {
             "title": "Trigun Stargaze",
-            "action": "content:https://milotobias.github.io/msx/fil/2/28.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/35.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/trigun-stargaze.jpg"
         },
         {
             "title": "Undead Unluck",
-            "action": "content:https://milotobias.github.io/msx/fil/2/29.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/36.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
         },
         {
             "title": "Usagi Drop",
-            "action": "content:https://milotobias.github.io/msx/fil/2/30.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/37.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/usagi-drop.jpg"
         },
         {
             "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/31.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/38.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vigilante-boku-no-hero-academia-illegals-2nd-season.jpg"
         },
         {
             "title": "Vivy: Fluorite Eye's Song",
-            "action": "content:https://milotobias.github.io/msx/fil/2/32.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/39.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/vivy-fluorite-eyes-song.jpg"
         },
         {
+            "title": "World Is Dancing",
+            "action": "content:https://milotobias.github.io/msx/fil/2/40.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/world-is-dancing.jpg"
+        },
+        {
+            "title": "Yomi no Tsugai",
+            "action": "content:https://milotobias.github.io/msx/fil/2/41.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/yomi-no-tsugai.jpg"
+        },
+        {
+            "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+            "action": "content:https://milotobias.github.io/msx/fil/2/42.json",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.jpg"
+        },
+        {
             "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-            "action": "content:https://milotobias.github.io/msx/fil/2/33.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/43.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku.jpg"
         },
         {
             "title": "[Oshi no Ko] 3rd Season",
-            "action": "content:https://milotobias.github.io/msx/fil/2/34.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/44.json",
             "image": "https://cdn.jkdesa.com/assets/images/animes/image/oshi-no-ko-3rd-season.jpg"
         },
         {
             "title": "kimi wa houkago",
-            "action": "content:https://milotobias.github.io/msx/fil/2/35.json",
+            "action": "content:https://milotobias.github.io/msx/fil/2/45.json",
             "image": "https://image.tmdb.org/t/p/w500/qChtK3uuCc5L5CpSeBpVV4MFRHD.jpg"
         }
     ]

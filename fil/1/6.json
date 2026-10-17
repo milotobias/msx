@@ -59,17 +59,20 @@
         {
             "title": "Koukaku Kidoutai (TV) 7",
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68437/SUB/e1wambkk2cuy_68437_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 7"
+            "playerLabel": "Koukaku Kidoutai (TV) 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
         },
         {
             "title": "Koukaku Kidoutai (TV) 8",
             "action": "video:https://back.animecenter.network/file/animecenbs1/68513/SUB/8a181e92ltgt_68513_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 8"
+            "playerLabel": "Koukaku Kidoutai (TV) 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
         },
         {
             "title": "Koukaku Kidoutai (TV) 9",
             "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68586/SUB/c868vlbvn144_68586_1080.class",
-            "playerLabel": "Koukaku Kidoutai (TV) 9"
+            "playerLabel": "Koukaku Kidoutai (TV) 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/koukaku-kidoutai-tv.jpg"
         }
     ]
 }

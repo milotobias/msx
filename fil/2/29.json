@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Undead Unluck",
+    "headline": "Seihantai na Kimi to Boku 2nd Season",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,148 +21,76 @@
     },
     "items": [
         {
-            "title": "Undead Unluck 1",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60379/SUB/68057_720p.class",
-            "playerLabel": "Undead Unluck 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67970/SUB/67970_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60441/SUB/68122_720p.class",
-            "playerLabel": "Undead Unluck 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68037/SUB/68037_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 3",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60502/SUB/68186_720p.class",
-            "playerLabel": "Undead Unluck 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68112/SUB/l4elzkugjl8j_68112_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 4",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60566/SUB/68250_720p.class",
-            "playerLabel": "Undead Unluck 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68185/SUB/fp6utpwou8c1_68185_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 5",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/60631/SUB/68317_720p.class",
-            "playerLabel": "Undead Unluck 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68261/SUB/kdmzhosn0yx6_68261_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 6",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60692/SUB/68378_720p.class",
-            "playerLabel": "Undead Unluck 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68335/SUB/sge8d21m3ggm_68335_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/60753/SUB/68441_720p.class",
-            "playerLabel": "Undead Unluck 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68411/SUB/ettey21od7b2_68411_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/60815/SUB/68509_720p.class",
-            "playerLabel": "Undead Unluck 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68488/SUB/et6icouye6df_68488_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 9",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/60875/SUB/68574_720p.class",
-            "playerLabel": "Undead Unluck 9",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 9",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68559/SUB/wumh05dkw9je_68559_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 10",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/60931/SUB/68633_720p.class",
-            "playerLabel": "Undead Unluck 10",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68639/SUB/yps9p5eeoft2_68639_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 11",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/60990/SUB/68692_720p.class",
-            "playerLabel": "Undead Unluck 11",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 11",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68715/SUB/4s0gi99a6k5b_68715_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         },
         {
-            "title": "Undead Unluck 12",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61049/SUB/68751_720p.class",
-            "playerLabel": "Undead Unluck 12",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 13",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/63956/SUB/uyils09un210_h.class",
-            "playerLabel": "Undead Unluck 13",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 14",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61142/SUB/68844_720p.class",
-            "playerLabel": "Undead Unluck 14",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 15",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61191/SUB/68893_720p.class",
-            "playerLabel": "Undead Unluck 15",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 16",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61243/SUB/68945_720p.class",
-            "playerLabel": "Undead Unluck 16",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 17",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61294/SUB/68994_720p.class",
-            "playerLabel": "Undead Unluck 17",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 18",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61345/SUB/69054_720p.class",
-            "playerLabel": "Undead Unluck 18",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 19",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/61394/SUB/69100_720p.class",
-            "playerLabel": "Undead Unluck 19",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 20",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61444/SUB/69153_720p.class",
-            "playerLabel": "Undead Unluck 20",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 21",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61492/SUB/69201_720p.class",
-            "playerLabel": "Undead Unluck 21",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 22",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61543/SUB/69252_720p.class",
-            "playerLabel": "Undead Unluck 22",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 23",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/61593/SUB/69302_720p.class",
-            "playerLabel": "Undead Unluck 23",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
-        },
-        {
-            "title": "Undead Unluck 24",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/61644/SUB/69355_720p.class",
-            "playerLabel": "Undead Unluck 24",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/undead-unluck.jpg"
+            "title": "Seihantai na Kimi to Boku 2nd Season 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68831/SUB/rrwvlum1iue7_68831_1080.class",
+            "playerLabel": "Seihantai na Kimi to Boku 2nd Season 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seihantai-na-kimi-to-boku-2nd-season.jpg"
         }
     ]
 }
