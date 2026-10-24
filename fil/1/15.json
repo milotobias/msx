@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Youjo Senki Movie",
+    "headline": "Psyren",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,22 @@
     },
     "items": [
         {
-            "title": "Youjo Senki Movie 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/50762/sub/26006_720p.class",
-            "playerLabel": "Youjo Senki Movie 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/youjo-senki-movie.jpg"
+            "title": "Psyren 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68888/SUB/ldfo7z3nfvv8_68888_1080.class",
+            "playerLabel": "Psyren 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/psyren.jpg"
+        },
+        {
+            "title": "Psyren 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68947/SUB/ecrm5ojfau0t_68947_1080.class",
+            "playerLabel": "Psyren 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/psyren.jpg"
+        },
+        {
+            "title": "Psyren 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/69011/SUB/5xr9o10l1n97_69011_1080.class",
+            "playerLabel": "Psyren 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/psyren.jpg"
         }
     ]
 }

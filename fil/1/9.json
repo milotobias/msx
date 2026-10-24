@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Steel Ball Run: JoJo no Kimyou na Bouken",
+    "headline": "Gensou Suikoden",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,16 +21,22 @@
     },
     "items": [
         {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/67044/SUB/2jy2duk1tc6i_h.class",
-            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
+            "title": "Gensou Suikoden 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68871/SUB/zyy55yqjo6oq_68871_1080.class",
+            "playerLabel": "Gensou Suikoden 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gensou-suikoden.jpg"
         },
         {
-            "title": "Steel Ball Run: JoJo no Kimyou na Bouken 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68815/SUB/cxhygv31vigg_68815_1080.class",
-            "playerLabel": "Steel Ball Run: JoJo no Kimyou na Bouken 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/steel-ball-run-jojo-no-kimyou-na-bouken.jpg"
+            "title": "Gensou Suikoden 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68957/SUB/g3u5iptnqukf_68957_1080.class",
+            "playerLabel": "Gensou Suikoden 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gensou-suikoden.jpg"
+        },
+        {
+            "title": "Gensou Suikoden 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/69022/SUB/z5yl9n8h5z90_69022_1080.class",
+            "playerLabel": "Gensou Suikoden 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/gensou-suikoden.jpg"
         }
     ]
 }

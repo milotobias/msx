@@ -1,0 +1,48 @@
+{
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "type": "list",
+    "headline": "Tokyo Revengers: Santen Sensou-hen",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Tokyo Revengers: Santen Sensou-hen 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68854/SUB/1h1jy2nn9a1u_68854_1080.class",
+            "playerLabel": "Tokyo Revengers: Santen Sensou-hen 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-revengers-santen-sensou-hen.jpg"
+        },
+        {
+            "title": "Tokyo Revengers: Santen Sensou-hen 2",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68910/SUB/1ir05ooy7bsg_68910_1080.class",
+            "playerLabel": "Tokyo Revengers: Santen Sensou-hen 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-revengers-santen-sensou-hen.jpg"
+        },
+        {
+            "title": "Tokyo Revengers: Santen Sensou-hen 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68973/SUB/3jt43uw0999y_68973_1080.class",
+            "playerLabel": "Tokyo Revengers: Santen Sensou-hen 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-revengers-santen-sensou-hen.jpg"
+        },
+        {
+            "title": "Tokyo Revengers: Santen Sensou-hen 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/69053/SUB/kr5akd4m9zf5_69053_1080.class",
+            "playerLabel": "Tokyo Revengers: Santen Sensou-hen 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/tokyo-revengers-santen-sensou-hen.jpg"
+        }
+    ]
+}

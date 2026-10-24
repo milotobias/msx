@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "One Piece",
+    "headline": "Enen no Shouboutai: San no Shou",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,166 +21,154 @@
     },
     "items": [
         {
-            "title": "One Piece 1129",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64737/SUB/f6id3robfwuh_h.class",
-            "playerLabel": "One Piece 1129",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 1",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64413/SUB/25ln40sy0f1x_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1130",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64787/SUB/88mcjkexs30d_h.class",
-            "playerLabel": "One Piece 1130",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 2",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64461/SUB/ouz4ewy4xuc7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1131",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64838/SUB/38gv3110besk_h.class",
-            "playerLabel": "One Piece 1131",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64509/SUB/qfcv3pzz65t5_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1132",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64886/SUB/s7qxsiv1h6q4_h.class",
-            "playerLabel": "One Piece 1132",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64565/SUB/ashbd8rnoaa7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1133",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64935/SUB/hyu1dad5ydj9_h.class",
-            "playerLabel": "One Piece 1133",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64613/SUB/7gca9ailxvc2_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1134",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65015/SUB/yru4yyw8o17m_h.class",
-            "playerLabel": "One Piece 1134",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 6",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64664/SUB/czuwm4oxox3t_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1135",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65060/SUB/4bil73fclk12_h.class",
-            "playerLabel": "One Piece 1135",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64714/SUB/abn5mjjdo1j3_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1136",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65120/SUB/obvxonui58my_h.class",
-            "playerLabel": "One Piece 1136",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 8",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64765/SUB/0ysfd9ynv4th_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1137",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65237/SUB/83v2ncbz8k7h_h.class",
-            "playerLabel": "One Piece 1137",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64816/SUB/58neceaz2cc5_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1138",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65297/SUB/ib1i6mrq1dg6_h.class",
-            "playerLabel": "One Piece 1138",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 10",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/64865/SUB/xmy4xv22l5ic_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1139",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65356/SUB/opdv176j6q0l_h.class",
-            "playerLabel": "One Piece 1139",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 11",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/64914/SUB/ahiorh3l91kv_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1140",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65414/SUB/qfopj8sn34lo_h.class",
-            "playerLabel": "One Piece 1140",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 12",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/64963/SUB/rraf3g0p7g29_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1141",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65474/SUB/dho1bdy9uavs_h.class",
-            "playerLabel": "One Piece 1141",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 13",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66476/SUB/n7qwxn9x027i_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 13",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1142",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65591/SUB/3gferrl3ui27_h.class",
-            "playerLabel": "One Piece 1142",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 14",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66533/SUB/3jddb53ep8zn_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 14",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1143",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65648/SUB/kd2tz4g4orei_h.class",
-            "playerLabel": "One Piece 1143",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 15",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66589/SUB/ew82ydhwmxje_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 15",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1144",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/65710/SUB/ypenzh82ae5a_h.class",
-            "playerLabel": "One Piece 1144",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 16",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66647/SUB/4f4q73rqcu7g_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 16",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1145",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65744/SUB/vvvobjs4k1hn_h.class",
-            "playerLabel": "One Piece 1145",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 17",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66706/SUB/bwhz30h9s27z_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 17",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1146",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/65894/SUB/2x60lmu4rhld_h.class",
-            "playerLabel": "One Piece 1146",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 18",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66761/SUB/d09fid4f2p3x_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 18",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1147",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/65947/SUB/udk54i9q56a8_h.class",
-            "playerLabel": "One Piece 1147",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 19",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66817/SUB/gupyg2f9rg18_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 19",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1148",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66003/SUB/ytu3uqi0j1j0_h.class",
-            "playerLabel": "One Piece 1148",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 20",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66876/SUB/ikx23qej4b79_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 20",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1149",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66059/SUB/wdrk43ym4w8s_h.class",
-            "playerLabel": "One Piece 1149",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 21",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66932/SUB/sffz0fr2d9e7_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 21",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1150",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66112/SUB/uvicqfhjqpwx_h.class",
-            "playerLabel": "One Piece 1150",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 22",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66988/SUB/qc7hilsw6yz6_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 22",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1151",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66219/SUB/lajy28rp28do_h.class",
-            "playerLabel": "One Piece 1151",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 23",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67047/SUB/0vhh49sajhtf_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 23",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1152",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/66274/SUB/wxjubyd3yg3u_h.class",
-            "playerLabel": "One Piece 1152",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 24",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67100/SUB/vvzbjubddb6r_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 24",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         },
         {
-            "title": "One Piece 1153",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66345/SUB/ulcaiqobqsgi_h.class",
-            "playerLabel": "One Piece 1153",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1154",
-            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/66396/SUB/th9u5e7ca7ld_h.class",
-            "playerLabel": "One Piece 1154",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
-        },
-        {
-            "title": "One Piece 1155",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/66422/SUB/5s5gmxzn8abe_h.class",
-            "playerLabel": "One Piece 1155",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/one-piece.jpg"
+            "title": "Enen no Shouboutai: San no Shou 25",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67156/SUB/aae8ev3oxjma_h.class",
+            "playerLabel": "Enen no Shouboutai: San no Shou 25",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/enen-no-shouboutai-san-no-shou.jpg"
         }
     ]
 }

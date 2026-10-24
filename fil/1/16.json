@@ -1,0 +1,48 @@
+{
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "type": "list",
+    "headline": "Seitokai ni mo Ana wa Aru!",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Seitokai ni mo Ana wa Aru! 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/69067/SUB/l7yum4733167_69067_1080.class",
+            "playerLabel": "Seitokai ni mo Ana wa Aru! 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-ni-mo-ana-wa-aru.jpg"
+        },
+        {
+            "title": "Seitokai ni mo Ana wa Aru! 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68930/SUB/d0zb4xm6ew5u_68930_1080.class",
+            "playerLabel": "Seitokai ni mo Ana wa Aru! 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-ni-mo-ana-wa-aru.jpg"
+        },
+        {
+            "title": "Seitokai ni mo Ana wa Aru! 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68993/SUB/cse6mtygkp2g_68993_1080.class",
+            "playerLabel": "Seitokai ni mo Ana wa Aru! 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-ni-mo-ana-wa-aru.jpg"
+        },
+        {
+            "title": "Seitokai ni mo Ana wa Aru! 4",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/69067/SUB/l7yum4733167_69067_1080.class",
+            "playerLabel": "Seitokai ni mo Ana wa Aru! 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/seitokai-ni-mo-ana-wa-aru.jpg"
+        }
+    ]
+}

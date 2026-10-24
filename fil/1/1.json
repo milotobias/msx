@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "headline": "Ao Ashi Season 2",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,52 +21,22 @@
     },
     "items": [
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67994/SUB/67994_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 1",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Ao Ashi Season 2 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68875/SUB/pd9h9zipvuq1_68875_1080.class",
+            "playerLabel": "Ao Ashi Season 2 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ao-ashi-season-2.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68068/SUB/68068_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 2",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Ao Ashi Season 2 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68932/SUB/a9b8chl83oyx_68932_1080.class",
+            "playerLabel": "Ao Ashi Season 2 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ao-ashi-season-2.jpg"
         },
         {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68141/SUB/cnz6ww89gi7j_68141_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 3",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
-        },
-        {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68217/SUB/mwv8cfx0ot4u_68217_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 4",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
-        },
-        {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68291/SUB/0cnvdgffg3wm_68291_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 5",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
-        },
-        {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68364/SUB/r6pbqje538wa_68364_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 6",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
-        },
-        {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 7",
-            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68441/SUB/a4wuss92s6bt_68441_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 7",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
-        },
-        {
-            "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 8",
-            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68515/SUB/b8g5usjh1ret_68515_1080.class",
-            "playerLabel": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou 8",
-            "image": "https://cdn.jkdesa.com/assets/images/animes/image/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou.jpg"
+            "title": "Ao Ashi Season 2 3",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68997/SUB/k6r9qmi3kbwh_68997_1080.class",
+            "playerLabel": "Ao Ashi Season 2 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/ao-ashi-season-2.jpg"
         }
     ]
 }

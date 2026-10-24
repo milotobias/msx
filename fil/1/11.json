@@ -1,7 +1,7 @@
 {
     "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "type": "list",
-    "headline": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
+    "headline": "Kore Kaite Shine",
     "template": {
         "type": "separate",
         "layout": "0,0,2,3",
@@ -21,10 +21,76 @@
     },
     "items": [
         {
-            "title": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-            "action": "video:https://back.animecenter.network/file/animecenbs1/68242/SUB/68242_1080.class",
-            "playerLabel": "Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen",
-            "image": "https://tioanime.com/uploads/portadas/4494.jpg"
+            "title": "Kore Kaite Shine 1",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67948/SUB/67948_1080.class",
+            "playerLabel": "Kore Kaite Shine 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68020/SUB/68020_1080.class",
+            "playerLabel": "Kore Kaite Shine 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68092/SUB/68092_1080.class",
+            "playerLabel": "Kore Kaite Shine 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 4",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68165/SUB/jasnriwnqpvh_68165_1080.class",
+            "playerLabel": "Kore Kaite Shine 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 5",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68259/SUB/jfbq6g9sc4d9_68259_1080.class",
+            "playerLabel": "Kore Kaite Shine 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68313/SUB/mgowbaxqld16_68313_1080.class",
+            "playerLabel": "Kore Kaite Shine 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 7",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68466/SUB/cy2lt2molln3_68466_1080.class",
+            "playerLabel": "Kore Kaite Shine 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 8",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68540/SUB/zizucg7cqvbn_68540_1080.class",
+            "playerLabel": "Kore Kaite Shine 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68616/SUB/vvda23pd049r_68616_1080.class",
+            "playerLabel": "Kore Kaite Shine 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/68692/SUB/iiqqvf94kdsj_68692_1080.class",
+            "playerLabel": "Kore Kaite Shine 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68762/SUB/jcgopaa2t0w3_68762_1080.class",
+            "playerLabel": "Kore Kaite Shine 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
+        },
+        {
+            "title": "Kore Kaite Shine 12",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/68817/SUB/xtp4xa81yxiw_68817_1080.class",
+            "playerLabel": "Kore Kaite Shine 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/kore-kaite-shine.jpg"
         }
     ]
 }

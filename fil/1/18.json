@@ -1,0 +1,96 @@
+{
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D M d yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "type": "list",
+    "headline": "Shunkashuutou Daikousha: Haru no Mai",
+    "template": {
+        "type": "separate",
+        "layout": "0,0,2,3",
+        "progress": -1,
+        "progress:type": "watch",
+        "live": {
+            "type": "playback",
+            "running": {
+                "titleFooter": "{progress:time:hh:mm:ss}"
+            },
+            "action": "player:show"
+        },
+        "properties": {
+            "resume:key": "url",
+            "progress:type": "resume"
+        }
+    },
+    "items": [
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 1",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67111/SUB/eurmicrtz1y8_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 1",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 2",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67159/SUB/h4cabbdfwx80_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 2",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 3",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67225/SUB/elot6zw18xxk_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 3",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 4",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67297/SUB/ypxgtethx7rm_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 4",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 5",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67361/SUB/33rs5a2me5pt_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 5",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 6",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67423/SUB/u08xfsa2wrue_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 6",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 7",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67487/SUB/pwrcjygxjmms_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 7",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 8",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67551/SUB/pio1xycqoac9_h.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 8",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 9",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67616/SUB/67616_720.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 9",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 10",
+            "action": "video:https://back.cdnlat4animecen.com/file/animecenbs1/67684/SUB/67684_720.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 10",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 11",
+            "action": "video:https://back.cdnlat2animecen.com/file/animecenbs1/67745/SUB/67745_720.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 11",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        },
+        {
+            "title": "Shunkashuutou Daikousha: Haru no Mai 12",
+            "action": "video:https://back.cdnlat3animecen.com/file/animecenbs1/67804/SUB/67804_720.class",
+            "playerLabel": "Shunkashuutou Daikousha: Haru no Mai 12",
+            "image": "https://cdn.jkdesa.com/assets/images/animes/image/shunkashuutou-daikousha-haru-no-mai.jpg"
+        }
+    ]
+}
